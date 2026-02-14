@@ -1,2 +1,4 @@
 *.png
 pictures/
+*.aux
+*.synctex.gz
