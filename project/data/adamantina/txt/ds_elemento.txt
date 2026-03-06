@@ -1,0 +1,214 @@
+
+--- ds_elemento ---ds_elemento
+33901414 - DIÁRIAS NO PAIS                                                                                            5322
+33903007 - GÊNEROS DE ALIMENTAÇÃO                                                                                     4492
+33903999 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA                                                             3010
+33909314 - RESSARCIMENTO DE PASSAGENS E DESPESAS COM LOCOMOÇÃO                                                        2432
+31901101 - VENCIMENTOS E SALÁRIOS                                                                                     2213
+31901199 - OUTRAS DESPESAS FIXAS - PESSOAL CIVIL                                                                      2073
+33903039 - MATERIAL PARA MANUTENÇÃO DE VEÍCULOS                                                                       2049
+31901137 - GRATIFICAÇÃO POR TEMPO DE SERVIÇO                                                                          2009
+33903905 - SERVIÇOS TÉCNICOS PROFISSIONAIS                                                                            1979
+33903950 - SERVIÇO MÉDICO-HOSPITALAR, ODONTOLÓGICO E LABORATORIAIS                                                    1964
+31901302 - CONTRIBUIÇÕES PREVIDENCIÁRIAS - INSS                                                                       1757
+33903016 - MATERIAL DE EXPEDIENTE                                                                                     1745
+33904899 - DEMAIS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS                                                              1730
+33903919 - MANUTENÇÃO E CONSERVAÇÃO DE VEÍCULOS                                                                       1728
+31901110 - ADICIONAL DE INSALUBRIDADE                                                                                 1650
+31901301 - FGTS                                                                                                       1569
+31901143 - 13º SALÁRIO                                                                                                1374
+33903004 - GÁS ENGARRAFADO                                                                                            1358
+31901145 - FÉRIAS - ABONO CONSTITUCIONAL                                                                              1236
+33903699 - OUTROS SERVIÇOS DE PESSOA FÍSICA                                                                           1113
+33903022 - MATERIAL DE LIMPEZA E PRODUTOS DE HIGIENIZAÇÃO                                                             1090
+31901699 - OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL                                                                  1071
+33903009 - MATERIAL FARMACOLÓGICO                                                                                     1066
+33903943 - SERVIÇOS DE ENERGIA ELÉTRICA                                                                                997
+31901151 - OUTROS ADICIONAIS, VANTAGENS, GRATIFICAÇÕES E OUTROS COMPLEMENTOS DE SALÁRIOS                               978
+33903944 - SERVIÇOS DE ÁGUA E ESGOTO                                                                                   972
+33504300 - SUBVENÇÕES SOCIAIS                                                                                          900
+31901133 - GRATIFICAÇÃO POR EXERCÍCIO DE FUNÇÕES                                                                       852
+33903988 - SERVIÇOS DE PUBLICIDADE E PROPAGANDA                                                                        832
+33904601 - INDENIZAÇÃO AUXÍLIO ALIMENTAÇÃO                                                                             784
+33909302 - RESTITUIÇÕES                                                                                                758
+33903203 - MATERIAL DESTINADO À ASSISTÊNCIA SOCIAL                                                                     747
+31900411 - SALÁRIOS - CONTRATO TEMPORÁRIO                                                                              709
+33904024 - TELEFONIA FIXA E MÓVEL - PACOTE DE COMUNICAÇÃO DE DADOS                                                     708
+33903910 - LOCAÇÃO DE IMÓVEIS                                                                                          658
+33903099 - OUTROS MATERIAIS DE CONSUMO                                                                                 636
+31901144 - FÉRIAS - ABONO PECUNIÁRIO                                                                                   633
+33904016 - LOCAÇÃO DE SOFTWARE                                                                                         600
+31901104 - ADICIONAL NOTURNO                                                                                           557
+33903606 - SERVIÇOS TÉCNICOS PROFISSIONAIS                                                                             552
+31900499 - OUTRAS CONTRATAÇÕES POR TEMPO DETERMINADO                                                                   521
+33903607 - ESTAGIÁRIOS                                                                                                 507
+33904799 - OUTRAS OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS                                                               480
+33903965 - SERVIÇOS DE APOIO AO ENSINO                                                                                 480
+31900413 - 13º SALÁRIO - CONTRATO TEMPORÁRIO                                                                           460
+33903035 - MATERIAL LABORATORIAL                                                                                       453
+33903990 - SERVIÇOS DE PUBLICIDADE LEGAL                                                                               437
+31901644 - SERVIÇOS EXTRAORDINÁRIOS                                                                                    432
+33903917 - MANUTENÇÃO E CONSERVAÇÃO DE MÁQUINAS E EQUIPAMENTOS                                                         431
+33903024 - MATERIAL PARA MANUTENÇÃO DE BENS IMÓVEIS                                                                    429
+33903977 - VIGILÂNCIA OSTENSIVA MONITORADA                                                                             422
+31901174 - SUBSÍDIOS (EXCETO AGENTES POLÍTICOS)                                                                        396
+33903972 - VALE-TRANSPORTE                                                                                             394
+33503999 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA                                                              392
+31909401 - INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS - ATIVO - PESSOAL CIVIL                                            392
+31901146 - FÉRIAS - PAGAMENTO ANTECIPADO - RPPS                                                                        384
+31901109 - ADICIONAL DE PERICULOSIDADE                                                                                 384
+33503951 - SERVIÇOS MÉDICO-HOSPITALARES PRESTADOS EM UNIDADES HOSPITALARES                                             362
+33903912 - LOCAÇÃO DE MÁQUINAS E EQUIPAMENTOS                                                                          318
+33903001 - COMBUSTÍVEIS E LUBRIFICANTES AUTOMOTIVOS                                                                    307
+33903966 - SERVIÇOS JUDICIÁRIOS                                                                                        300
+31900417 - OBRIGAÇÕES PATRONAIS - FGTS - CONTRATO TEMPORÁRIO                                                           293
+31901142 - FÉRIAS INDENIZADAS, VENCIDAS E PROPORCIONAIS                                                                258
+31901111 - ADICIONAL DE ATIVIDADES PENOSAS                                                                             255
+33903025 - MATERIAL PARA MANUTENÇÃO DE BENS MÓVEIS                                                                     254
+33903036 - MATERIAL HOSPITALAR                                                                                         251
+33903028 - MATERIAL DE PROTEÇÃO E SEGURANÇA                                                                            245
+33903948 - SERVIÇO DE SELEÇÃO E TREINAMENTO                                                                            229
+33903299 - OUTROS MATERIAIS DE DISTRIBUIÇÃO GRATUITA                                                                   224
+31901175 - SUBSÍDIOS - AGENTES POLÍTICOS                                                                               219
+33904712 - CONTRIBUIÇÃO PARA O PIS/PASEP                                                                               215
+33903630 - SERVIÇOS MÉDICOS E ODONTOLÓGICOS                                                                            214
+31900416 - OBRIGAÇÕES PATRONAIS - INSS - CONTRATO TEMPORÁRIO                                                           212
+31909499 - OUTRAS INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS                                                             211
+33903963 - SERVIÇOS GRÁFICOS E EDITORIAIS                                                                              208
+33903026 - MATERIAL ELÉTRICO E ELETRÔNICO                                                                              204
+33903916 - MANUTENÇÃO E CONSERVAÇÃO DE BENS IMÓVEIS                                                                    178
+31909199 - OUTRAS SENTENÇAS JUDICIAIS                                                                                  175
+33903615 - LOCAÇÃO DE IMÓVEIS                                                                                          168
+31900399 - OUTRAS PENSÕES                                                                                              168
+33903017 - MATERIAL DE PROCESSAMENTO DE DADOS                                                                          165
+31900199 - OUTRAS APOSENTADORIAS                                                                                       162
+44905235 - EQUIPAMENTOS DE PROCESSAMENTO DE DADOS                                                                      159
+44905242 - MOBILIÁRIO EM GERAL                                                                                         158
+33903037 - MEDICAMENTOS FORNECIDOS POR DECISÃO JUDICIAL                                                                139
+33903974 - FRETES E TRANSPORTES DE ENCOMENDAS                                                                          132
+33903980 - HOSPEDAGENS                                                                                                 132
+33903978 - LIMPEZA E CONSERVAÇÃO                                                                                       123
+44905234 - MÁQUINAS, UTENSÍLIOS E EQUIPAMENTOS  DIVERSOS                                                               118
+33909199 - DIVERSAS SENTENÇAS                                                                                          118
+33903969 - SEGUROS EM GERAL                                                                                            117
+33903979 - SERVIÇO DE APOIO ADMINISTRATIVO, TÉCNICO E OPERACIONAL                                                      114
+44905299 - OUTROS MATERIAIS PERMANENTES                                                                                113
+46907101 - AMORTIZAÇÃO DA DÍVIDA CONTRATUAL                                                                            109
+31900451 - ADICIONAIS DE CONTRATO TEMPORÁRIO                                                                           105
+33903958 - SERVIÇOS DE TELECOMUNICAÇÕES                                                                                105
+31900101 - PROVENTOS - PESSOAL CIVIL                                                                                   102
+33903920 - MANUTENÇÃO E CONSERVAÇÃO DE BENS MÓVEIS DE OUTRAS NATUREZAS                                                 101
+31900301 - PESSOAL CIVIL                                                                                                99
+33903018 - MATERIAIS E MEDICAMENTOS PARA USO VETERINÁRIO                                                                97
+44905239 - EQUIPAMENTOS E UTENSÍLIOS HIDRÁULICOS E ELÉTRICOS                                                            93
+33904022 - MANUTENÇÃO E CONSERVAÇÃO DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - TIC                     87
+33904099 - OUTROS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - PESSOA JURÍDICA                                  85
+31900414 - FERIAS - ABONO CONSTITUCIONAL - CONTRATO TEMPORÁRIO                                                          84
+44905199 - OUTRAS OBRAS E INSTALAÇÕES                                                                                   83
+33903994 - AQUISIÇÃO DE SOFTWARES DE APLICAÇÃO                                                                          82
+33903947 - SERVIÇOS DE COMUNICAÇÃO EM GERAL                                                                             81
+33903021 - MATERIAL DE COPA E COZINHA                                                                                   79
+33903010 - MATERIAL ODONTOLÓGICO                                                                                        78
+33903608 - BOLSA DE INICIAÇÃO AO TRABALHO                                                                               78
+31901105 - INCORPORAÇÕES                                                                                                78
+44905208 - APARELHOS, EQUIPAMENTOS, UTENSÍLIOS MÉDICO-ODONTOLÓGICO, LABORATORIAL E HOSPITALAR                           76
+33503906 - CONVÊNIO                                                                                                     75
+33904001 - LOCAÇÃO DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - TIC - ATIVOS DE REDE                     73
+44905191 - OBRAS EM ANDAMENTO                                                                                           70
+44905212 - APARELHOS E UTENSÍLIOS DOMÉSTICOS                                                                            69
+33903023 - UNIFORMES, TECIDOS E AVIAMENTOS                                                                              64
+33903901 - ASSINATURAS DE PERIÓDICOS E ANUIDADES                                                                        64
+33903014 - MATERIAL EDUCATIVO E ESPORTIVO                                                                               61
+33903044 - MATERIAL DE SINALIZAÇÃO VISUAL E AFINS                                                                       61
+33904718 - CONTRIBUIÇÕES PREVIDENCIÁRIAS - SERVIÇOS DE TERCEIROS                                                        60
+33503903 - ACORDO DE COOPERAÇÃO                                                                                         59
+31900151 - ADICIONAIS, VANTAGENS, GRATIFICAÇÕES E OUTROS COMPLEMENTOS DE PROVENTOS - PESSOAL CIVIL                      57
+31900351 - ADICIONAIS, VANTAGENS, GRATIFICAÇÕES E OUTROS COMPLEMENTOS DE PENSÕES - PESSOAL CIVIL                        57
+33903983 - SERVIÇOS DE CÓPIAS E REPRODUÇÃO DE DOCUMENTOS                                                                57
+33903922 - EXPOSIÇÕES, CONGRESSOS E CONFERÊNCIAS                                                                        53
+33903031 - SEMENTES, MUDAS DE PLANTAS E INSUMOS                                                                         53
+33903967 - SERVIÇOS FUNERÁRIOS                                                                                          51
+33903923 - FESTIVIDADES E HOMENAGENS                                                                                    51
+33903019 - MATERIAL DE ACONDICIONAMENTO E EMBALAGEM                                                                     50
+33903914 - LOCAÇÃO BENS MÓVEIS DE OUTRAS NATUREZAS E INTANGÍVEIS                                                        50
+33903006 - ALIMENTOS PARA ANIMAIS                                                                                       49
+33903973 - TRANSPORTE DE SERVIDORES / EMPREGADOS                                                                        48
+33903959 - SERVIÇOS DE ÁUDIO, VÍDEO E FOTO                                                                              46
+33903904 - DIREITOS AUTORAIS                                                                                            45
+31909403 - INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS - INATIVO - PESSOAL CIVIL                                           45
+33903100 - PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E OUTRAS                                          42
+44905206 - APARELHOS E EQUIPAMENTOS DE COMUNICAÇÃO                                                                      42
+31900106 - 13º SALÁRIO - PESSOAL CIVIL                                                                                  39
+44905233 - EQUIPAMENTOS PARA ÁUDIO, VÍDEO E FOTO                                                                        38
+33903970 - CONFECÇÃO DE UNIFORMES, BANDEIRAS E FLÂMULAS                                                                 37
+33903981 - SERVIÇOS BANCÁRIOS                                                                                           36
+33903501 - ASSESSORIA E CONSULTORIA TÉCNICA OU JURÍDICA                                                                 36
+33903940 - PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR                                                                       36
+33903011 - MATERIAL QUÍMICO                                                                                             34
+33904901 - INDENIZAÇÃO AUXÍLIO TRANSPORTE                                                                               33
+31901131 - GRATIFICAÇÕES POR EXERCÍCIO DE CARGO                                                                         33
+31909126 - SENTENÇA JUDICIAL DE PEQUENO VALOR - ATIVO CIVIL                                                             33
+44905224 - EQUIPAMENTO DE PROTEÇÃO, SEGURANÇA E  SOCORRO                                                                32
+33903042 - FERRAMENTAS                                                                                                  31
+32902101 - JUROS DA DÍVIDA CONTRATUAL                                                                                   28
+33914000 - SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - PESSOA JURÍDICA - INTRA OFSS                            27
+44905192 - INSTALAÇÕES                                                                                                  27
+33504100 - CONTRIBUIÇÕES                                                                                                24
+33909239 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA                                                               21
+33909399 - DIVERSAS INDENIZAÇÕES E RESTITUIÇÕES                                                                         21
+33903202 - MEDICAMENTOS PARA USO DOMICILIAR                                                                             20
+33903015 - MATERIAL PARA FESTIVIDADES E HOMENAGENS                                                                      20
+33903020 - MATERIAL DE CAMA, MESA E BANHO                                                                               19
+33903628 - SERVIÇO DE SELEÇÃO E TREINAMENTO                                                                             18
+33903995 - MANUTENÇÃO E CONSERVAÇÃO DE EQUIPAMENTOS DE  PROCESSAMENTO DE DADOS                                          18
+33903005 - EXPLOSIVOS E MUNIÇÕES                                                                                        16
+33903060 - MATERIAL DIDÁTICO                                                                                            15
+33903953 - SERVIÇOS DE ASSISTÊNCIA SOCIAL                                                                               15
+33903939 - ENCARGOS FINANCEIROS INDEDUTÍVEIS - EMPRESAS                                                                 15
+33903003 - COMBUSTÍVEIS E LUBRIFICANTES PARA OUTRAS FINALIDADES                                                         15
+31901150 - SALÁRIO MATERNIDADE                                                                                          12
+31909125 - HONORÁRIOS SUCUMBENCIAIS DE PRECATÓRIOS                                                                      12
+33903941 - FORNECIMENTO DE ALIMENTAÇÃO                                                                                  11
+31909498 - INDENIZAÇÕES POR DEMISSÃO E COM PROGRAMAS DE INCENTIVOS À DEMISSÃO VOLUNTÁRIA - TRABALHADOR ATIVO CIVIL       9
+33909230 - MATERIAL DE CONSUMO                                                                                           9
+44905180 - ESTUDOS E PROJETOS                                                                                            9
+44905287 - MATERIAL DE CONSUMO DE USO DURADOURO - RPPS                                                                   9
+33904702 - IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - IPTU - RPPS                                        9
+33903029 - MATERIAL PARA ÁUDIO, VÍDEO E FOTO                                                                             8
+31901102 - FÉRIAS CONVERTIDAS EM PECÚNIA                                                                                 6
+44905236 - MÁQUINAS, INSTALAÇÕES E UTENSÍLIOS DE  ESCRITÓRIO                                                             6
+33903601 - CONDOMÍNIOS                                                                                                   6
+33903631 - SERVIÇOS DE REABILITAÇÃO PROFISSIONAL                                                                         6
+33903964 - SERVIÇOS DE PERÍCIAS MÉDICAS/ODONTOLÓGICAS PARA BENEFÍCIOS                                                    6
+31900418 - PROFESSORES SUBSTITUTOS / VISITANTES                                                                          6
+31900303 - 13º SALÁRIO - PESSOAL CIVIL - PENSIONISTAS                                                                    6
+33913900 - OUTROS SERVIÇOS DE TERCEIROS -  PESSOA JURÍDICA - INTRA-ORÇAMENTÁRIO                                          6
+33903961 - SERVIÇOS DE SOCORRO E SALVAMENTO                                                                              6
+33903634 - SERVIÇO DE PERÍCIAS MÉDICAS POR BENEFÍCIOS                                                                    6
+33903925 - TAXA DE ADMINISTRAÇÃO                                                                                         6
+33903012 - MATERIAL DE COUDELARIA OU DE USO ZOOTÉCNICO                                                                   5
+44905204 - APARELHOS DE MEDIÇÃO E ORIENTAÇÃO                                                                             5
+44905228 - MÁQUINAS E EQUIPAMENTOS DE NATUREZA INDUSTRIAL                                                                5
+31909109 - SENTENÇA JUDICIAL - INATIVO CIVIL                                                                             4
+33903616 - LOCAÇÃO DE BENS MÓVEIS E INTANGÍVEIS                                                                          3
+33503955 - SERVIÇOS LABORATORIAIS                                                                                        3
+33903945 - SERVIÇOS DE GÁS                                                                                               3
+33903030 - MATERIAL PARA COMUNICAÇÕES                                                                                    3
+33903620 - MANUTENÇÃO E CONSERVAÇÃO DE VEÍCULOS                                                                          3
+33903907 - DESCONTOS FINANCEIROS CONCEDIDOS- EMPRESAS                                                                    3
+44905238 - MÁQUINAS, FERRAMENTAS E UTENSÍLIOS DE OFICINA                                                                 3
+33903204 - MATERIAL EDUCACIONAL E CULTURAL                                                                               3
+44905232 - MÁQUINAS E EQUIPAMENTOS GRÁFICOS                                                                              3
+33503956 - OUTROS SERVIÇOS DE ASSISTÊNCIA À SAÚDE                                                                        3
+33909114 - SENTENÇAS JUDICIAIS                                                                                           3
+33909115 - SENTENÇAS JUDICIAIS DE PEQUENO VALOR                                                                          3
+33903008 - ANIMAIS PARA PESQUISAS E ABATE                                                                                3
+33903952 - SERVIÇOS DE REABILITAÇÃO PROFISSIONAL                                                                         3
+44906199 - OUTRAS AQUISIÇÕES DE BENS IMÓVEIS                                                                             3
+33903034 - SOBRESSALENTES, MÁQUINAS E MOTORES DE NAVIOS E EMBARCAÇÕES                                                    3
+44905218 - COLEÇÕES E MATERIAIS BIBLIOGRÁFICOS                                                                           3
+33903951 - SERVIÇOS DE ANÁLISES E PESQUISAS CIENTÍFICAS                                                                  3
+33903050 - BANDEIRAS, FLÂMULAS E INSIGNIAS                                                                               3
+33903989 - SERVIÇOS DECORRENTES DE DECISÃO JUDICIAL                                                                      2
+44905210 - APARELHOS E EQUIPAMENTOS PARA ESPORTES E DIVERSÕES                                                            1
+33909299 - OUTRAS DESPESAS DE EXERCÍCIOS ANTERIORES                                                                      1

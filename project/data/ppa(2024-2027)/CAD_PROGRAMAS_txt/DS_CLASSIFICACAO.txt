@@ -1,0 +1,6 @@
+
+--- DS_CLASSIFICACAO ---DS_CLASSIFICACAO
+Finalístico                                 99
+Apoio Administrativo                         7
+Melhoria de Gestão de Políticas Públicas     3
+Demais                                       1

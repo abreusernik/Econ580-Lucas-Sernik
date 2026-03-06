@@ -1,0 +1,10 @@
+
+--- ds_modalidade_lic ---ds_modalidade_lic
+OUTROS/NÃO APLICÁVEL     44167
+DISPENSA DE LICITAÇÃO    16283
+PREGÃO ELETRÔNICO        10290
+INEXIGÍVEL                3747
+PREGÃO PRESENCIAL         2819
+CONCORRÊNCIA               218
+TOMADA DE PREÇOS            60
+CONVITE                     56

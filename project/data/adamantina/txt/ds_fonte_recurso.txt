@@ -1,0 +1,7 @@
+
+--- ds_fonte_recurso ---ds_fonte_recurso
+TESOURO                                                        48321
+RECURSOS PRÓPRIOS DA ADMINISTRAÇÃO INDIRETA                    19617
+TRANSFERÊNCIAS E CONVÊNIOS FEDERAIS-VINCULADOS                  5038
+TRANSFERÊNCIAS E CONVÊNIOS ESTADUAIS-VINCULADOS                 4239
+RECURSOS PRÓPRIOS DE FUNDOS ESPECIAIS DE DESPESA-VINCULADOS      425

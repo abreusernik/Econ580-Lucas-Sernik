@@ -1,0 +1,32 @@
+
+--- ds_cd_aplicacao_fixo ---ds_cd_aplicacao_fixo
+0110 - GERAL                                                                                                   45086
+0310 - SAÚDE - GERAL                                                                                           10730
+0510 - ASSISTÊNCIA SOCIAL - GERAL                                                                               4064
+0100 - GERAL TOTAL                                                                                              2748
+0301 - ATENÇÃO BÁSICA                                                                                           2427
+0220 - ENSINO FUNDAMENTAL - RECURSOS ESPECÍFICOS                                                                2237
+0200 - EDUCAÇÃO - RECURSOS ESPECÍFICOS                                                                          1817
+0500 - ASSISTÊNCIA SOCIAL - RECURSOS ESPECÍFICOS                                                                1787
+0304 - ASSISTÊNCIA FARMACÊUTICA                                                                                 1072
+0302 - ATENÇÃO DE MÉDIA E ALTA COMPLEXIDADE AMBULATORIAL E HOSPITALAR                                           1066
+0261 - EDUCAÇÃO - FUNDEB - MAGISTÉRIO                                                                            996
+0210 - EDUCAÇÃO INFANTIL - RECURSOS ESPECÍFICOS                                                                  796
+0212 - EDUCAÇÃO INFANTIL - CRECHE                                                                                489
+0303 - VIGILÂNCIA EM SAÚDE                                                                                       423
+0213 - EDUCAÇÃO INFANTIL - PRÉ-ESCOLA                                                                            412
+0801 - TRANSFERÊNCIAS DO ESTADO DECORRENTES DE EMENDAS PARLAMENTARES INDIVIDUAIS                                 372
+0320 - SAÚDE - TAXAS                                                                                             216
+0271 - EDUCAÇÃO-FUNDEB-MAGISTÉRIO - CRECHE                                                                       188
+0272 - EDUCAÇÃO-FUNDEB-MAGISTÉRIO - PRÉ-ESCOLA                                                                   184
+0400 - TRÂNSITO - RECURSOS ESPECÍFICOS                                                                           151
+0800 - TRANSFERÊNCIAS DA UNIÃO DECORRENTES DE EMENDAS PARLAMENTARES INDIVIDUAIS - Convênios/Entidades/Fundo      142
+0300 - SAÚDE - RECURSOS ESPECÍFICOS                                                                               92
+0140 - ROYALTIES DA EXPLORAÇÃO DO PETRÓLEO E GÁS NATURAL                                                          52
+0262 - EDUCAÇÃO - FUNDEB - OUTROS                                                                                 30
+0330 - SAÚDE - SERVIÇOS                                                                                           17
+0410 - TRÂNSITO - SINALIZAÇÃO                                                                                     12
+0130 - CIDE - CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO                                                    11
+0360 - BLOCO DE INVESTIMENTOS NA REDE DE SERVIÇOS DE SAÚDE                                                        11
+0370 - Grupo da Assistência Financeira Complementar para implementação do piso salarial da enfermagem              9
+0312 - RECURSOS PARA COMBATE AO CORONAVIRUS - Convênios/Entidades/Fundos                                           3

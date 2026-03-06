@@ -1,0 +1,4 @@
+
+--- DS_BASE_GEOGRAFICA ---DS_BASE_GEOGRAFICA
+Estado     106
+Regiões      4

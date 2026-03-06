@@ -1,0 +1,6 @@
+
+--- tp_despesa ---tp_despesa
+Valor Liquidado    26379
+Valor Pago         26048
+Empenhado          23474
+Anulação            1739

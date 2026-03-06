@@ -1,0 +1,41 @@
+
+--- ds_subfuncao_governo ---ds_subfuncao_governo
+ENSINO SUPERIOR                                   19598
+ADMINISTRAÇÃO GERAL                               11750
+ATENÇÃO BÁSICA                                    10571
+SERVIÇOS URBNOS                                    4129
+ENSINO FUNDAMENTAL                                 3511
+ASSISTÊNCIA HOSPITALAR E AMBULATORIAL              3471
+EDUCAÇÃO INFANTIL                                  2560
+ALIMENTAÇÃO E NUTRIÇÃO                             2481
+SERVIÇOS SOCIOASSISTENCIAIS                        2335
+DIFUSÃO CULTURAL                                   2129
+ADMINISTRAÇÃO FINANCEIRA                           1924
+DESPORTO COMUNITÁRIO                               1519
+DEFESA CIVIL                                       1328
+CONTROLE AMBIENTAL                                 1286
+PLANEJAMENTO E ORÇAMENTO                           1242
+SUPORTE PROFILÁTICO E TERAPÊUTICO                  1072
+POLICIAMENTO                                        930
+AÇÃO LEGISLATIVA                                    800
+ASSISTÊNCIA COMUNITÁRIA                             703
+PROMOÇÃO DA PRODUÇÃO AGROPECUÁRIA                   584
+PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL                 484
+VIGILÂNCIA EPIDEMIOLÓGICA                           423
+PREVIDÊNCIA DO REGIME ESTATUTÁRIO                   420
+ASSISTÊNCIA AO IDOSO                                365
+OUTROS ENCARGOS ESPECIAIS                           348
+ASSISTÊNCIA À CRIANÇA E AO ADOSLESCENTE             301
+EDUCAÇÃO ESPECIAL                                   240
+VIGILÂNCIA SANITÁRIA                                233
+CONTROLE EXTERNO                                    162
+SERVIÇO DA DÍVIDA INTERNA                           137
+INFRA-ESTRUTURA URBANA                              131
+PREVIDÊNCIA COMPLEMENTAR                            114
+EDUCAÇÃO DE JOVENS E ADULTOS                        109
+FORMAÇÃO DE RECURSOS HUMANOS                        105
+PREVIDÊNCIA BÁSICA                                   66
+TRANSPORTES COLETIVOS URBANOS                        26
+PROMOÇÃO COMERCIAL                                   25
+PATRIMÔNIO HISTÓRICO, ARTÍSTICO E ARQUEOLÓGICO       25
+LAZER                                                 3

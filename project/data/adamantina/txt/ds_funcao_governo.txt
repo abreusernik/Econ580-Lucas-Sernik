@@ -1,0 +1,16 @@
+
+--- ds_funcao_governo ---ds_funcao_governo
+EDUCAÇÃO               27698
+SAÚDE                  16574
+ADMINISTRAÇÃO          10902
+ASSISTÊNCIA SOCIAL      6005
+URBANISMO               4289
+AGRICULTURA             3165
+SEGURANÇA PÚBLICA       2258
+CULTURA                 2154
+DESPORTO E LAZER        1522
+GESTÃO AMBIENTAL        1163
+LEGISLATIVA              800
+PREVIDÊNCIA SOCIAL       600
+ENCARGOS ESPECIAIS       485
+COMÉRCIO E SERVIÇOS       25

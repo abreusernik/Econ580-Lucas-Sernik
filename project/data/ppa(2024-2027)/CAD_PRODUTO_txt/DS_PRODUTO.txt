@@ -1,0 +1,563 @@
+
+--- DS_PRODUTO ---DS_PRODUTO
+TRANSPORTE SUBSIDIADO AOS PASSAGEIROS ESTUDANTES                                                                                    2
+TRANSPORTE GRATUITO AOS PASSAGEIROS IDOSOS E OUTROS                                                                                 2
+INOVAÇÃO PARA MELHORIA NO ATENDIMENTO AOS PASSAGEIROS DO SISTEMA METROPOLITANO                                                      1
+REFEIÇÕES OFERECIDAS EM UNIDADES COZINHA CENTRAL                                                                                    1
+ATORES SOCIAIS DAS POLÍTICAS PÚBLICAS DO DESENVOLVIMENTO SOCIAL CAPACITADOS                                                         1
+BENEFÍCIOS CONCEDIDOS A PESSOAS EM SITUAÇÃO DE VULNERABILIDADE                                                                      1
+APOIO DESCENTRALIZADO AO PROGRAMA  DE SUPERAÇÃO DA VULNERABILIDADE SOCIAL                                                           1
+QUALIFICAÇÃO E INSERÇÃO PRODUTIVA DE PESSOAS EMSITUAÇÃO DE VULNERABILIDADE                                                          1
+ESTUDOS TÉCNICOS PARA GESTÃO INTEGRADA DO SISTEMA DE TRANSPORTE                                                                     1
+FUNÇÕES, MÓDULOS E SOLUÇÕES TECNOLÓGICAS MODERNIZADAS                                                                               1
+AQUISIÇÃO DE TRENS PARA O SISTEMA METROFERROVIÁRIO                                                                                  1
+AQUISIÇÃO DE SISTEMA DE SINALIZAÇÃO (CBTC) METROVIÁRIA - LINHAS 1, 2 E 3                                                            1
+PROJETOS E AÇÕES DE COMUNICAÇÃO SOCIAL E RELAÇÕES INSTITUCIONAIS                                                                    1
+COMPLEMENTAÇÃO DA RECEITA OPERACIONAL DO SERVIÇO DE TRANSPORTE METROPOLITANO DE PASSAGEIROS                                         1
+TRANSPORTE DE PASSAGEIROS NO SIM BAIXADA SANTISTA                                                                                   1
+APOIO NA IMPLANTAÇÃO DE SISTEMAS DE MÉDIA CAPACIDADE EM CIDADES DAS REGIÕES METR                                                    1
+ESTRUTURAÇÃO E EXPANSÃO DA REDE METROPOLITANA DE BAIXA E MÉDIA CAPACIDADES                                                          1
+REFEIÇÕES OFERECIDAS EM UNIDADES MÓVEIS                                                                                             1
+REFEIÇÕES OFERECIDAS EM UNIDADES FIXAS                                                                                              1
+DISTRIBUIÇÃO DE LEITE E DERIVADOS                                                                                                   1
+DIVULGAÇÃO DE AÇÕES DE PUBLICIDADE DE  UTILIDADE PÚBLICA DA  SECRETARIA DA EDUCAÇÃO                                                 1
+OPERAÇÃO E ATIVAÇÃO DAS PRAÇAS DA CIDADANIA                                                                                         1
+ESCOLAS DE QUALIFICAÇÃO PROFISSIONAL DO FUSSP                                                                                       1
+PROJETO DE CONFECÇÃO DE PEÇAS DE VESTUÁRIO USADAS NAS CAMPANHAS DO FUSSP                                                            1
+COMUNICAÇÃO E TRANSPARÊNCIA                                                                                                         1
+REDE PARA PROMOÇÃO DA CIDADANIA E ENFRENTAMENTO DA VULNERABILIDADE                                                                  1
+DIVULGAÇÃO DE AÇÕES DE PUBLICIDADE INSTITUCIONAL                                                                                    1
+DIVULGAÇÃO DE AÇÕES  DE  PUBLICIDADE DE UTILIDADE PÚBLICA DA SECRETARIA DA SAÚDE                                                    1
+PROMOÇÃO DO DESENVOLVIMENTO HUMANO                                                                                                  1
+VIGILÂNCIA SOCIOASSISTENCIAL - MONITORAMENTO E AVALIAÇÃO                                                                            1
+COFINANCIAMENTO DE SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA                                                                               1
+COFINANCIAMENTO DE SERVIÇOS DA PROTEÇÃO SOCIAL ESPECIAL                                                                             1
+COFINANCIAMENTO DE BENEFÍCIOS EVENTUAIS                                                                                             1
+PRIMEIRA INFÂNCIA NO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL - SUAS                                                                     1
+POLÍTICAS DE DIREITO VINCULADAS À SECRETARIA DE DESENVOLVIMENTO SOCIAL FORTALECIDAS                                                 1
+PROJETOS, ESTUDOS E PESQUISAS PARA QUALIFICAÇÃO E APOIO AO TRANSPORTE METROP.                                                       1
+TRANSPORTE METROPOLITANO GRATUITO AOS PASSAGEIROS ESTUDANTES DE BAIXA RENDA                                                         1
+PROTEÇÃO DA SOCIOBIODIVERSIDADE                                                                                                     1
+OBRAS E SISTEMAS DA LINHA 17 OURO IMPLANTADOS                                                                                       1
+REINTEGRAÇÃO SOCIAL E ATENÇÃO INTEGRAL À PESSOA EGRESSA E FAMILIARES                                                                1
+SERVIÇOS DE ASSISTÊNCIA JURIDICA E ADMINISTRATIVA PARA AS PESSOAS PRIVADAS DE LIBERDADE                                             1
+CAPACITAÇÃO EDUCACIONAL E QUALIFICAÇÃO PROFISSIONAL                                                                                 1
+POSTOS DE TRABALHO                                                                                                                  1
+SISTEMA DE INTELIGÊNCIA E SEGURANÇA DO SISTEMAPRISIONAL                                                                             1
+OBRAS DE REFORMAS, MODERNIZAÇÃO E ADEQUAÇÕES PREDIAIS DO SISTEMA PRISIONAL                                                          1
+SERVIÇOS ADMINISTRATIVOS                                                                                                            1
+SERVIÇOS DE ASSISTÊNCIA À SAUDE EM GERAL                                                                                            1
+NOVAS VAGAS DE CUSTÓDIA                                                                                                             1
+SERVIÇOS DE CUSTODIA PRESTADOS DE FORMA HUMANA E SEGURA                                                                             1
+MODERNIZAÇÃO E RECUPERAÇÃO DA EFCJ                                                                                                  1
+OPERAÇÃO DA ESTRADA DE FERRO CAMPOS DO JORDÃO                                                                                       1
+INOVAÇÃO PARA MELHORIA DO ATENDIMENTO AOS PASSAGEIROS DO SISTEMA METROVIÁRIO                                                        1
+ESTUDOS E PROJETOS PARA EXPANSÃO DA REDE METROVIÁRIA                                                                                1
+OBRAS E SISTEMAS DA LINHA 15 PRATA IMPLANTADOS                                                                                      1
+TRANSPORTE METROPOLITANO GRATUITO AOS PASSAGEIROS IDOSOS 60-64 ANOS                                                                 1
+LINHA 4 AMARELA IMPLANTADA, INCLUINDO TÚNEL DE CONEXÃO COMPLEMENTAR                                                                 1
+OBRAS E SISTEMAS DA EXPANSÃO DA LINHA 2-VERDE IMPLANTADOS                                                                           1
+LINHAS 1, 2 E 3 MODERNIZADAS COM PORTAS DE PLATAFORMAS                                                                              1
+TRANSPORTE DE PASSAGEIRO NAS LINHAS SOB GESTÃO DO METRÔ                                                                             1
+LINHA 3-VERMELHA EM OPERAÇÃO MODERNIZADA                                                                                            1
+LINHA 2-VERDE EM OPERAÇAO MODERNIZADA                                                                                               1
+LINHA 1-AZUL EM OPERAÇÃO MODERNIZADA                                                                                                1
+LINHA 5 LILAS IMPLANTADA                                                                                                            1
+TRANSPORTE DE PASSAGEIROS POR TRENS METROPOLITANOS                                                                                  1
+LINHAS DE TRENS METROPOLITANOS MODERNIZADAS                                                                                         1
+ESTUDOS E PROJETOS PARA A EXPANSÃO DA REDE FERROVIÁRIA                                                                              1
+LINHA 13 - JADE ESTENDIDA ATÉ A REGIÃO CENTRAL                                                                                      1
+LINHA 9 - ESMERALDA ESTENDIDA                                                                                                       1
+ESTUDOS, PROJETOS E PESQUISAS NA ÁREA DE TRANSPORTES VOLTADOS PARA INOVAÇÃO                                                         1
+NOVAS PRAÇAS DA CIDADANIA                                                                                                           1
+LEILÕES DE MATERIAIS QUE NÃO APRESENTAM UTILIDADE PARA OS DOADORES                                                                  1
+GERENCIAMENTO DE DOAÇÕES                                                                                                            1
+INFORMAÇÃO SOBRE A SEGURANÇA DE BARRAGENS DO ESTADO.                                                                                1
+ESGOTOS COLETADOS TRATADOS                                                                                                          1
+EMPREENDIMENTOS FINANCIADOS PELO FEHIDRO                                                                                            1
+DESENVOLVIMENTO DE  INSTRUMENTOS DA POLÍTICA DE RECURSOS HÍDRICOS                                                                   1
+INICIATIVAS PARA TRANSIÇÃO ENERGÉTICA.                                                                                              1
+PLANOS DE MINERAÇÃO SUSTENTÁVEL                                                                                                     1
+CERTIFICAÇÃO DE FORNECEDORES DE BENS MINERAIS                                                                                       1
+OFERTA DE ENERGIA FIRME                                                                                                             1
+AMPLIAÇÃO, RETROFIT, REFORMA E RESTAURAÇÃO DE TERMINAIS E ESTALEIROS                                                                1
+ESTRADAS MUNICIPAIS PAVIMENTADAS E PERENIZADAS                                                                                      1
+RODOVIAS ESTADUAIS IMPLANTADAS E PAVIMENTADAS                                                                                       1
+MONITORAMENTO E PROTEÇÃO DA FAUNA SILVESTRE                                                                                         1
+REFLORESTAMENTO COMPENSATÓRIO DE ESPÉCIES NATIVAS                                                                                   1
+HIDROVIA TIETÊ-PARANÁ AMPLIADA E MELHORADA                                                                                          1
+PORTO DE SÃO SEBASTIÃO MODERNIZADO E AMPLIADO                                                                                       1
+NOVAS LIGAÇÕES DE ESGOTOS                                                                                                           1
+NOVAS LIGAÇÕES DE ÁGUA                                                                                                              1
+FORTALECIMENTO DA POLÍTICA DE RESÍDUOS SÓLIDOS URBANOS DO ESTADO DE SÃO PAULO                                                       1
+MONITORAMENTO DOS ATERROS NO ESTADO                                                                                                 1
+MELHORIA DA EFETIVIDADE DOS SISTEMAS DE LOGÍSTICA REVERSA                                                                           1
+INFRAESTRUTURA SUSTENTÁVEL-DESENVOLVIMENTO DE PRODUTOS E SERVIÇOS DE SANEAMENTO                                                     1
+INSTRUMENTOS DE GESTÃO E IMPLEMENTAÇÃO DE POLITÍCA DE SANEAMENTO BÁSICO NO ESTADO DE SÃO PAULO                                      1
+UNIVERSALIZAÇÃO DO SANEAMENTO DO ESTADO DE SÃO PAULO                                                                                1
+MEDIÇÃO E AVALIAÇÃO DA QUALIDADE DAS ÁGUAS                                                                                          1
+AVALIAÇÕES PARA PROTEÇÃO E USO SUSTENTÁVEL DA ÁGUA SUBTERRÂNEA ELABORADAS                                                           1
+MANUTENÇÃO E OPERAÇÃO DE ESTRUTURAS (EXCETO RIO TIETÊ METROPOLITANO E PINHEIROS)                                                    1
+REGULAÇÃO E FISCALIZAÇÃO DOS RECURSOS HÍDRICOS                                                                                      1
+MANUTENÇÃO E OPERAÇÃO DE ESTRUTURAS - PISCINÕES                                                                                     1
+SISTEMAS OU INFRAESTRUTURA PARA SEGURANÇA HÍDRICA                                                                                   1
+INTEGRA TIETÊ                                                                                                                       1
+OBRAS E SERVS PARA MITIGAÇÃO E COMPENSAÇÃO DOS IMPACTOS GERADOS PELA SP EXPO NO PEFI                                                1
+GESTÃO E FORTALECIMENTO DE PARQUES URBANOS                                                                                          1
+CONSTRUÇÃO, REFORMA E MODERNIZAÇÃO DE EMBARCAÇÕES DAS TRAVESSIAS PAULISTAS                                                          1
+TORRES DE CONTROLES EM AEROPORTOS                                                                                                   1
+CENTRO ADMINISTRATIVO DO GOVERNO - CAMPOS ELÍSIOS                                                                                   1
+RELACIONAMENTO COM A SOCIEDADE                                                                                                      1
+APARELHAMENTO DAS DEFESAS CIVIS MUNICIPAIS                                                                                          1
+CAPACITAÇÃO DE AGENTES PÚBLICOS, COMUNIDADE E VOLUNTÁRIOS                                                                           1
+ASSISTÊNCIA ÀS VÍTIMAS DE DESASTRES                                                                                                 1
+COMUNICAÇÃO DE RISCO                                                                                                                1
+ARTICULAÇÃO E GESTÃO ESTRATÉGICA DE GOVERNO                                                                                         1
+ATOS ASSINADOS PELO GOVERNADOR                                                                                                      1
+CENTRO REVITALIZADO E SEGURO                                                                                                        1
+EQUIPAMENTOS DE CONTAGEM, MONITORAMENTO E COBERTURA WI-FI INSTALADOS EM RODOVIA                                                     1
+CUIDADO INTEGRAL DA SAÚDE DE USUÁRIOS DE SUBSTÂNCIAS PSICOATIVAS - PROJETO HUB                                                      1
+AÇÕES COMPLEMENTARES DE SAÚDE AOS USUÁRIOS DE SUBSTÂNCIAS PSICOATIVAS                                                               1
+PREVENÇÃO E ENFRENTAMENTO AO TABAGISMO                                                                                              1
+PREVENÇÃO AO USO DE DROGAS COM CRIANÇAS E ADOLESCENTES                                                                              1
+ACOLHIMENTO TERAPÊUTICO E REPÚBLICAS PARA DEPENDENTES QUÍMICOS                                                                      1
+ACOLHIMENTO E REINTEGRAÇÃO SOCIAL ÀS PESSOAS COM DEPENDÊNCIA QUÍMICA                                                                1
+APOIO AOS MUNICIPIOS NA GESTÃO DE DEFESA CIVIL PARA A REALIZAÇÃO DE OBRAS                                                           1
+APERFEIÇOAMENTO E MODERNIZAÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO                                                                 1
+CAPACITAÇÃO PARA MEMBROS, SERVIDORES E SOCIEDADE PELO MINISTÉRIO PÚBLICO                                                            1
+INGRESSO DE NOVOS MEMBROS NO MP                                                                                                     1
+DEFESA PELO MINISTÉRIO PÚBLICO DOS INTERESSES SOCIAIS                                                                               1
+RECURSOS TECNOLÓGICOS DISPONIBILIZADOS                                                                                              1
+SUPORTE E MANUTENÇÃO DE TECNOLOGIA                                                                                                  1
+ADEQUAÇÃO DAS INSTALAÇÕES DAS UNIDADES DO MINISTÉRIO PÚBLICO                                                                        1
+PLANO DE LOGISTICA E INVESTIMENTOS DO ESTADO DE SÃO PAULO                                                                           1
+ESTAÇÕES DE NAVEGAÇÃO AÉREA DOS AEROPORTOS PAULISTAS                                                                                1
+OPERAÇÃO E MANUTENÇÃO DO PORTO DE SÃO SEBASTIÃO                                                                                     1
+SERVIÇOS DE OPERAÇÃO E MANUTENÇÃO DE TRAVESSIAS                                                                                     1
+SERVIÇOS DE APOIO À SEGURANÇA E CONTROLE OPERACIONAL NA MALHA HIDROVIÁRIA                                                           1
+CONSERVAÇÃO DE ROTINA EM RODOVIAS ESTADUAIS                                                                                         1
+OPERAÇÃO RODOVIÁRIA DAS UNIDADES BÁSICAS DE ATENDIMENTO (UBA) EM RODOVIAS ESTADUAIS                                                 1
+FISCALIZAÇÃO DE VEÍCULOS COM PESO EM RODOVIAS ESTADUAIS                                                                             1
+OPERAÇÃO DA POLICIA RODOVIÁRIA EM RODOVIAS ESTADUAIS                                                                                1
+ASSISTENCIA PSICOSSOCIAL PRESTADA ÀS PESSOAS PRIVADAS DE LIBERDADE E FAMILIARES                                                     1
+PENAS ALTERNATIVAS                                                                                                                  1
+APERFEIÇOAMENTO E DESENVOLVIMENTO DE COMPETÊNCIAS PROFISSIONAIS DE PESSSOAS PRIVADAS DE LIBERDADE                                   1
+DESENVOLVIMENTO DO TURISMO NO ESTADO DE SÃO PAULO                                                                                   1
+FORMAÇÃO INICIAL E EDUCAÇÃO CONTINUADA OFERECIDA PELO CPS                                                                           1
+DESENVOLVIMENTO E APERFEIÇOAMENTO DE DOCENTES E SERVIDORES                                                                          1
+PESQUISA, DESENVOLVIMENTO, INOVAÇÃO E EXTENSÃO                                                                                      1
+MUNICÍPIOS CLASSIFICADOS COMO ESTÂNCIA TURÍSTICA APOIADOS                                                                           1
+MUNICÍPIOS CLASSIFICADOS COMO MUNICÍPIO DE INTERESSE TURÍSTICO APOIADOS                                                             1
+PROMOÇÃO E COMUNICAÇÃO DO TURISMO                                                                                                   1
+INFRAESTRUTURA PARA CONSOLIDAÇÃO DO TURISMO                                                                                         1
+PARCERIAS E MOBILIZAÇÃO DE RECURSOS INTERNACIONAIS                                                                                  1
+ACOMPANHAMENTO DOS MUNICÍPIOS TURÍSTICOS  ESTÂNCIAS E MITS                                                                        1
+CONVÊNIOS FIRMADOS COM PREFEITURAS MUNICIPAIS                                                                                       1
+ESCRITÓRIOS REGIONAIS INTEGRADOS INSTALADOS                                                                                         1
+PROJETOS DE DESENVOLVIMENTO METROPOLITANO IMPLEMENTADOS NA RMSP (FUMEFI)                                                            1
+DEMANDAS RESPONDIDAS                                                                                                                1
+CREATIVE SP  MISSÕES INTERNACIONAIS SETORIAIS                                                                                      1
+FORMAÇÃO PROFISSIONAL ARTICULADA ENTRE OS NÍVEIS MÉDIO-TÉCNICO E SUPERIOR (AMS)                                                     1
+ENSINO TÉCNICO INTEGRADO AO MÉDIO OFERECIDO PELO CPS                                                                                1
+ENSINO TÉCNICO OFERECIDO PELO GOVERNO DO ESTADO DE SÃO PAULO                                                                        1
+ENSINO TECNOLÓGICO OFERECIDO PELO CPS                                                                                               1
+MODERNIZAÇÃO DE INFRAESTRUTURA FÍSICA                                                                                               1
+SERVIÇOS E PESQUISAS TECNOLÓGICAS EM APOIO AO DESENVOLVIMENTO E À INOVAÇÃO                                                          1
+MELHORIA DO ECOSSISTEMA DO ENSINO SUPERIOR                                                                                          1
+BOLSA AUXÍLIO FINANCEIRO PARA ESTUDANTES MATRICULADOS NA EXTENSÃO.                                                                  1
+ENSINO À DISTÂNCIA                                                                                                                  1
+BOLSA DE ESTUDOS PARA PESQUISA E DESENVOLVIMENTO                                                                                    1
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO                                                                                                1
+PERMANÊNCIA ESTUDANTIL                                                                                                              1
+SERVIÇO DE ALIMENTAÇÃO                                                                                                              1
+EXTENSÃO UNIVERSITÁRIA                                                                                                              1
+ENSINO DE PÓS-GRADUAÇÃO                                                                                                             1
+ENSINO DE GRADUAÇÃO                                                                                                                 1
+MUSEUS E MOSTRAS DE ACERVO                                                                                                          1
+FORTALECIMENTO DO COMÉRCIO EXTERIOR PAULISTA                                                                                        1
+JANELA ÚNICA DO INVESTIDOR                                                                                                          1
+APRIMORAMENTO DA INFRAESTRUTURA DE PESQUISA                                                                                         1
+RESPEITO À VIDA                                                                                                                     1
+CONCESSÃO E PAGAMENTO DE BENEFÍCIOS DOS DEMAIS PODERES: ALESP, TCE, TJ, TJM E MP                                                    1
+CONCESSÃO E PAGAMENTO DE BENEFÍCIOS DAS UNIVERSIDADES: UNESP, UNICAMP E USP                                                         1
+GESTÃO E MODERNIZAÇÃO NO DETRAN-SP                                                                                                  1
+TRANSFORMAÇÃO DIGITAL E HIPERAUTOMAÇÃO DOS SERVIÇOS NO DETRAN-SP                                                                    1
+FISCALIZAÇÃO E QUALIDADE NO DETRAN-SP                                                                                               1
+MELHORIA DA EFICIÊNCIA NOS SERVIÇOS PRESTADOS AOS USUÁRIOS DO DETRAN SP                                                             1
+CAPACITAÇÃO, EDUCAÇÃO E DADOS PARA O TRÂNSITO                                                                                       1
+CAPACITAÇÃO DE EMPRESAS PARA MELHORA DA COMPETITIVIDADE DO COMÉRCIO EXTERIOR                                                        1
+ASSISTÊNCIA À SAÚDE OFERECIDA AOS BENEFICIÁRIOS DO IAMSPE NO HSPE                                                                   1
+ASSISTÊNCIA À SAÚDE OFERECIDA AOS BENEFICIÁRIOS DO IAMSPE NA REDE CONTRATADA                                                        1
+CENTRO DE DESENVOLVIMENTO DE ENSINO E PESQUISA                                                                                      1
+NÚCLEO ESTRATÉGICO DA SAÚDE DO SERVIDOR - NESS                                                                                      1
+MELHORIA DA GESTÃO PÚBLICA E COMBATE À CORRUPÇÃO                                                                                    1
+TRANSPARÊNCIA E OUVIDORIA                                                                                                           1
+PREVENÇÃO E COMBATE A FRAUDES PREVIDENCIÁRIAS                                                                                       1
+CONCESSÃO E PAGAMENTO DE BENEFÍCIOS - SECRETARIA DA EDUCAÇÃO                                                                        1
+CONCESSÃO E PAGAMENTO DE BENEFÍCIOS MILITARES                                                                                       1
+CONCESSÃO E PAGAMENTO DE BENEFÍCIOS CIVIS                                                                                           1
+INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO                                                                                          1
+ATENDIMENTO AO CIDADÃO                                                                                                              1
+SEGURANÇA DA INFORMAÇÃO                                                                                                             1
+ACESSO UNIFICADO AOS SERVIÇOS PÚBLICOS DIGITALIZADOS                                                                                1
+GESTÃO PÚBLICA DIGITAL E TRANSPARENTE                                                                                               1
+INCLUSÃO DIGITAL E SOCIAL                                                                                                           1
+PERÍCIAS E PARECERES MÉDICOS - DPME                                                                                                 1
+SISTEMA DE ARQUIVOS DO ESTADO DE SÃO PAULO MODERNIZADO                                                                              1
+SISTEMA ADMINISTRATIVO DE GESTÃO DE COMPRAS E CONTRATAÇÕES PÚBLICAS ESTRUTURADO                                                     1
+SISTEMA ADMINISTRATIVO DE GESTÃO PÚBLICA E DESEMPENHO INSTITUCIONAL ESTRUTURADO                                                     1
+SISTEMA DE ADMINISTRAÇÃO DE PESSOAL ESTRUTURADO                                                                                     1
+SISTEMA ADMINISTRATIVO DE TRANSPORTES INTERNOS MOTORIZADOS ESTRUTURADO                                                              1
+SISTEMA DE GESTÃO DO PATRIMÔNIO IMOBILIÁRIO ESTRUTURADO                                                                             1
+INSTALAÇÕES CONSTRUÍDAS E ADEQUADAS                                                                                                 1
+APOIO À PESQUISA EM TEMAS ESTRATÉGICOS                                                                                              1
+FORMAÇÃO AO SERVIDOR PARA APOIAR A CUSTÓDIA                                                                                         1
+SERVIÇOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO REGULADOS E FISCALIZADOS                                                                 1
+SERVIÇO DE ATENDIMENTO AO USUÁRIO  OUVIDORIA ARTESP                                                                                1
+PARQUE CAPIVARI MODERNIZADO                                                                                                         1
+GERENCIAMENTO E FISCALIZAÇÃO DAS CONCESSÕES DA CMCP                                                                                 1
+CUMPRIMENTO DE AÇÕES INSTITUCIONAIS  E DE RELACIONAMENTO COM USUÁRIOS                                                               1
+SERVIÇOS DE SANEAMENTO BÁSICO REGULADOS E FISCALIZADOS                                                                              1
+ATIVIDADE DE REGULAÇÃO E FISCALIZAÇÃO ECONÔMICO FINANCEIRAS                                                                         1
+SERVIÇOS DELEGADOS ATRIBUÍDOS PELA LEI 17.293/2020 REGULADOS E FISCALIZADOS                                                         1
+PARTICIPAÇÃO DE ATLETAS EM EVENTOS ESPORTIVOS                                                                                       1
+SERVIÇOS DE ENERGIA ELÉTRICA FISCALIZADAS NO ÂMBITO DO CONVÊNIO COM A ANEEL                                                         1
+ATUAÇÃO ESTRATÉGICA, PREVENTIVA E CONSENSUAL PARA REDUÇÃO DA LITIGIOSIDADE                                                          1
+CONSULTORIA E ASSESSORAMENTO JURIDICO DO ESTADO                                                                                     1
+COBRANÇA EFICIENTE E ARRECADAÇÃO DA DÍVIDA ATIVA                                                                                    1
+INOVAÇÃO E MODERNIZAÇÃO NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO                                                                         1
+GESTÃO DA PGE, APERFEIÇOAMENTO DA GOVERNANÇA INSTITUCIONAL E GESTÃO DE PESSOAS                                                      1
+CONCESSÕES DE NOVOS MODAIS DE TRANSPORTE A SEREM FISCALIZADOS                                                                       1
+PASSAGEIROS TRANSPORTADOS C/ QUALIDADE NA LINHA EM OPER. CONCEDIDA_LINHA 7_RUBI                                                     1
+SERVIÇOS AEROPORTUÁRIOS EXECUTADOS COMQUALIDADE                                                                                     1
+PASSAGEIROS TRANSPORTADOS C/ QUALIDADE NA LINHA EM OP. CONCED._LINHA 9-ESMERALDA                                                    1
+PASSAGEIROS TRANSPORTADOS C/ QUALIDADE NA LINHA EM OPE. CONCED._LINHA 8-DIAMANTE                                                    1
+CONCESSÕES RODOVIÁRIAS REGULADAS E FISCALIZADAS                                                                                     1
+PASSAGEIROS TRASPORTADOS C/ QUALIDADE NA LINHA EM OPER. CONCEDIDA_LINHA 17-OURO                                                     1
+PASSAGEIROS TRANSPORTADOS C/ QUALIDADE NA LINHA EM OPER. CONCEDIDA_LINHA 5-LILÁS                                                    1
+SERVIÇO DE TRANSPORTE COLETIVO DE PASSAGEIROS REGULADOS E FISCALIZADOS PELA ARTESP                                                  1
+PASSAGEIROS TRANSPORTADOS C/ QUALIDADE NA LINHA EM OPER. CONCED._LINHA 4-AMARELA                                                    1
+ALINHAMENTO  DA EXECUÇÃO CONTRATUAL NAS CONCESSÕES VIGENTES                                                                         1
+NOVA TAMOIOS                                                                                                                        1
+RODOANEL NORTE  NOVO CONTRATO DE PPP                                                                                               1
+TREM INTERCIDADES  TIC EIXO NORTE                                                                                                  1
+LINHA 6 LARANJA IMPLANTADA                                                                                                          1
+APOIO AOS PROJETOS DO PPI-SP PELA CPP (COMPANHIA PAULISTA DE PARCERIAS)                                                             1
+ESTUDOS TÉCNICOS PARA ANÁLISE DE VIABILIDADE DOS PROJETOS DO PPI-SP                                                                 1
+CURSOS E TREINAMENTOS OFERTADOS PELO CENTRO DE ESTUDOS E ESCOLA SUPERIOR DA PGE                                                     1
+PROMOÇÃO DE EVENTOS DE LAZER ATIVO                                                                                                  1
+BOLSAS DE FORMAÇÂO                                                                                                                  1
+PARADESPORTO                                                                                                                        1
+FORMAÇÃO E EMPREGO APOIADO EM POLÍTICA DE DIREITO PCD                                                                               1
+APOIO TÉCNICO PARA MUNICIPIOS EM POLÍTICAS DE DIREITO DAS PESSOAS COM DEFICIÊNCIA                                                   1
+PLANO INTEGRADO PARA TRANSTORNO DO ESPECTRO AUTISTA (TEA)                                                                           1
+CENTROS DA CIDADANIA PARA PESSOA COM DEFICIÊNCIA                                                                                    1
+CULTURA, MEMÓRIA E HISTÓRIA                                                                                                         1
+DESENVOLVIMENTO, QUALIDADE DE VIDA E DIREITOS EM POLÍTICA PARA PCD                                                                  1
+MELHORIA DOS ECOSSISTEMAS DE INOVAÇÃO                                                                                               1
+BOLSAS TALENTO ESPORTIVO                                                                                                            1
+APOIO TÉCNICO E TECNOLÓGICO AOS MUNICÍPIOS PAULISTAS                                                                                1
+PROJETOS ESTRATÉGICOS EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO                                                                             1
+APOIO PARA INOVAÇÃO EM MICRO E PEQUENAS EMPRESAS                                                                                    1
+DIFUSÃO DE INFORMAÇÕES CIENTÍFICAS E TECNOLÓGICAS                                                                                   1
+PROJETOS DE PESQUISA CIENTÍFICA                                                                                                     1
+PARCERIA PARA INOVAÇÃO NAS EMPRESAS                                                                                                 1
+INCENTIVO AO PARADESPORTO DE ALTO RENDIMENTO                                                                                        1
+MODERNIZAÇÃO DOS RECURSOS DE TECNOLOGIA DA INFORMAÇÃO                                                                               1
+EDUCAÇÃO EM DIREITOS                                                                                                                1
+APERFEIÇOAMENTO DOS RECURSOS HUMANOS                                                                                                1
+ATIVIDADES DE PARTICIPAÇÃO DA SOCIEDADE CIVIL                                                                                       1
+COMUNICAÇÃO E TRANSPARÊNCIA INSTITUCIONAL                                                                                           1
+ATENDIMENTO SUPLEMENTAR DE ASSISTÊNCIA JURÍDICA                                                                                     1
+ATENDIMENTO DIRETO, INTEGRAL E MULTIDISCIPLINAR DE ASSISTÊNCIA JURÍDICA                                                             1
+EQUIPAMENTOS PARA SÃO PAULO OLÍMPICO IMPLANTADOS                                                                                    1
+PROFESSORES DA REDE ESCOLAR PUBLICA CAPACITADOS                                                                                     1
+GESTÃO E APOIO A EXECUÇÃO DAS ATIVIDADES DO SÃO PAULO OLIMPICO                                                                      1
+CENTROS DE FORMAÇÃO, TREINAMENTO E EXCELÊNCIA ESPORTIVA                                                                             1
+MATERIAIS E EQUIPAMENTOS ESPORTIVOS                                                                                                 1
+OBRAS, REFORMAS E IMPLANTAÇÃO DE NOVOS EQUIPAMENTOS ESPORTIVOS                                                                      1
+REFORMAS E OBRAS NOS EQUIPAMENTOS ESPORTIVOS PRÓPRIOS                                                                               1
+PARTICIPAÇÃO E PROMOÇÃO DE EVENTOS PARA DIVULGAÇÃO DA POLÍTICA DE ESPORTES                                                          1
+INCENTIVO PAULISTA AO ESPORTE - LEI PAULISTA DE INCENTIVO AO ESPORTE                                                                1
+PREVENÇÃO E COMBATE DE INCÊNDIOS FLORESTAIS                                                                                         1
+PROJETOS ESTRATÉGICOS PARA AS UNIDADES DE CONSERVAÇÃO                                                                               1
+SESSÕES LEGISLATIVAS                                                                                                                1
+AUMENTO DA COMPETITIVIDADE E INVESTIMENTOS DO ESTADO                                                                                1
+ATENDIMENTO REMOTO EM SAÚDE PARA UNIDADES PRISIONAIS  TELESAP                                                                      1
+ATENDIMENTO REMOTO EM SAÚDE NAS UNIDADES DE TERAPIA INTENSIVA - TELE UTI                                                            1
+ATENDIMENTO REMOTO Á SAUDE EM AMBULÁTÓRIOS MÉDICOS DE ESPECIALIDADES - TELEAME                                                      1
+ATENDIMENTO REMOTO A ATENÇÃO PRIMÁRIA À SAÚDE -TELE APS                                                                             1
+FORTALECIMENTO ECONÔMICO DAS REGIÕES ADMINISTRATIVAS                                                                                1
+POLÍTICAS DE FOMENTO À EMPREGABILIDADE                                                                                              1
+POLÍTICAS DE ACESSO AO CRÉDITO E AO MICROCRÉDITO PRODUTIVOS                                                                         1
+SISTEMA ESTADUAL DE REGISTRO HOSPITALAR DE CÂNCER (RHC)                                                                             1
+POLÍTICAS PARA O EMPREENDEDORISMO                                                                                                   1
+CRÉDITO PARA MUNICÍPIOS PAULISTAS                                                                                                   1
+CRÉDITO PARA EMPRESAS                                                                                                               1
+OPERAÇÃO DE SECURITIZAÇÃO                                                                                                           1
+REPASSES FINANCEIROS                                                                                                                1
+TRANSFORMAÇÃO DIGITAL DA JUCESP                                                                                                     1
+INFRAESTRUTURA TECNOLÓGICA ATUALIZADA, EXPANDIDA E MODERNIZADA                                                                      1
+PROJETOS DE PESQUISAS FIRMADOS EM INOVAÇÃO PELOS NÚCLEOS DE INOVAÇÃO TECNOLÓGICA                                                    1
+PROTEÇÃO E MANUTENÇÃO DOS SERVIÇOS ECOSSISTÊMICOS PRODUZIDOS PELAS UC.                                                              1
+TRABALHADORES DO SISTEMA ÚNICO DE SAÚDE (SUS) CAPACITADOS                                                                           1
+HOSPITAL ESTADUAL DE FRANCA                                                                                                         1
+HOSPITAL REGIONAL DE ITAPETININGA                                                                                                   1
+PROFISSIONAIS FORMADOS C/ PÓS GRADUAÇÃO "LATO SENSU" P/ ATENDER A DEMANDA                                                           1
+PROFISSIONAIS ATUALIZADOS EM CONHECIMENTO TÉCNICO-CIENTÍFICOS EM SAÚDE                                                              1
+ATIVIDADES OBRIGATÓRIAS DO CONSELHO ESTADUAL DE SAÚDE                                                                               1
+MÉDICOS ESPECIALISTAS FORMADOS POR MEIO DO PROGRAMA DE RESIDÊNCIA MÉDICA                                                            1
+ATENDIMENTO DE SAÚDE MENTAL EM HOSPITAIS GERAIS                                                                                     1
+UNIDADES FARMACOTÉCNICAS ENTREGUES                                                                                                  1
+DESINSTITUCIONALIZAÇÃO DE USUÁRIOS SUS EM INTERNAÇÃO DE LONGA PERMANÊNCIA                                                           1
+PESQUISAS EM SAUDE DESENVOLVIDAS EM ATENDIMENTO ÀS DEMANDAS DO SUS.                                                                 1
+DOSES DE VACINAS ENTREGUES                                                                                                          1
+FRASCOS AMPOLAS DE SOROS ENTREGUES                                                                                                  1
+SISTEMA DE GERENCIAMENTO DA HEMORREDE                                                                                               1
+BOLSAS DE HEMOCOMPONENTES PROCESSADAS PELAS UNIDADES DA SECRETARIA DE SAÚDE/SP.                                                     1
+APRENDIZAGEM PROFISSIONAL PARA JOVENS ATÉ 18 ANOS                                                                                   1
+QUALIFICAÇÃO PROFISSIONAL PARA PESSOAS ENTRE 16 E 24 ANOS                                                                           1
+QUALIFICAÇÃO PROFISSIONAL PARA PESSOAS ENTRE 25 A 59 ANOS                                                                           1
+CONTRATOS DE GESTÃO AVALIADOS E MONITORADOS                                                                                         1
+FORMAÇÃO  EM DIVERSAS LINGUAGENS ARTÍSTICAS - FÁBRICAS DE CULTURA                                                                   1
+DIFUSÃO CULTURAL REALIZADA PELOS CORPOS ARTÍSTICOS                                                                                  1
+DIFUSÃO CULTURAL REALIZADA PELOS TEATROS E OUTROS EVENTOS                                                                           1
+ATIVIDADE DE BIBLIOTECAS E LEITURAS                                                                                                 1
+NOVAS FÁBRICAS DE CULTURA                                                                                                           1
+FORMAÇÃO PARA CADEIA PRODUTIVA DA CULTURA                                                                                           1
+MUSEU NA VIRTUALIDADE                                                                                                               1
+QUALIFICAÇÃO PROFISSIONAL PARA PESSOAS COM 60 ANOS OU MAIS                                                                          1
+EDUCAÇÃO E AUDITORIAS SANITÁRIAS                                                                                                    1
+FISCALIZAÇÕES EM DEFESA AGROPECUÁRIA                                                                                                1
+INSPEÇÕES EM DEFESA AGROPECUÁRIA                                                                                                    1
+CAPACITAÇÃO/QUALIFICAÇÃO PARA FOMENTO DA INCLUSÃO PRODUTIVA                                                                         1
+REDE PAULISTA DE BANCO DE ALIMENTOS                                                                                                 1
+SEGURANÇA E EDUCAÇÃO ALIMENTAR                                                                                                      1
+FORMAÇÃO EM ARTES CÊNICAS E EM ARTES COREOGRÁFICAS                                                                                  1
+FORMAÇÃO EM MÚSICA                                                                                                                  1
+ASSESSORAMENTO AOS MUSEUS DO ESTADO DE SÃO PAULO                                                                                    1
+GESTÃO DOS MUSEUS ESTADUAIS VINCULADOS À SCEC                                                                                       1
+EDUCAÇÃO MUSICAL PARA CRIANÇAS E JOVENS - PROJETO GURI                                                                              1
+INFRAESTRUTURA DOS EQUIPAMENTOS CULTURAIS                                                                                           1
+PRESERVAÇÃO DO PATRIMONIO CULTURAL LATINO-AMERICANO.                                                                                1
+PESQUISA E DOCÊNCIA DA CÁTEGRA MEMORIAL DA AMÉRICA LATINA                                                                           1
+CENTRO BRASILEIRO DE ESTUDOS DA AMÉRICA LATINA                                                                                      1
+PROMOÇÃO DE ATIVIDADES CULTURAIS RELATIVAS À AMÉRICA LATINA                                                                         1
+SERVIÇO DE TRANSMISSÃO DE RÁDIO E TV                                                                                                1
+DIFUSÃO E FORMAÇÃO EM PATRIMÔNIO CULTURAL                                                                                           1
+ANÁLISES E PARECERES TÉCNICOS PARA PRESERVAÇÃO DO PATRIMÔNIO CULTURAL                                                               1
+INCENTIVO À PRODUÇÃO CULTURAL                                                                                                       1
+FOMENTO INDIRETO                                                                                                                    1
+FOMENTO DIRETO  (EDITAIS)                                                                                                           1
+QUALIFICAÇÃO EMPREENDEDORA PARA AS MICRO E PEQUENAS EMPRESAS                                                                        1
+HOSPITAL REGIONAL CIRCUITO DA FÉ E VALE HISTÓRICO, EM CRUZEIRO                                                                      1
+OBRAS EMERGENCIAIS EM UNIDADES DA ADMINISTRAÇÃO DIRETA E INDIRETA DA SES                                                            1
+NOVAS UNIDADES DE SAÚDE CONSTRUÍDAS                                                                                                 1
+EDUCAÇÃO INTEGRAL OFERECIDA AOS ESTUDANTES                                                                                          1
+SERVIÇOS DE PRESTAÇÃO JURISDICIONAL NO PRIMEIRO E NO SEGUNDO GRAU.                                                                  1
+TRANSPORTE DOS OFICIAIS DE JUSTIÇA EM DILIGÊNCIAS JUDICIAIS.                                                                        1
+JULGAMENTO DE PROCESSOS                                                                                                             1
+CONSERVAÇÃO E REFORMA DE IMÓVEIS DO TRIBUNAL DE JUSTIÇA MILITAR                                                                     1
+MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA                                                                                     1
+GESTÃO DA QUALIDADE DA APRENDIZAGEM                                                                                                 1
+EDUCAÇÃO ESPECIAL                                                                                                                   1
+EXTENSÃO CURRICULAR PARA ESTUDANTES                                                                                                 1
+EDUCAÇÃO TÉCNICA PROFISSIONAL PARA INSERÇÃO NO MERCADO DE TRABALHO                                                                  1
+EDUCAÇÃO DE JOVENS E ADULTOS-EJA  E ATENDIMENTO ESCOLAR PARA  PÚBLICOS ESPECIFICOS                                                  1
+TECNOLOGIAS DE USO PEDAGÓGICO                                                                                                       1
+FORMAÇÃO CONTINUADA DOS PROFISSIONAIS DA EDUCAÇÃO DA REDE ESTADUAL E MUNICIPAL                                                      1
+CONVIVÊNCIA E PROTEÇÃO ESCOLAR                                                                                                      1
+ATIVIDADES COMPLEMENTARES AO CURRÍCULO E CONEXÃO COM A COMUNIDADE ESCOLAR                                                           1
+CONSTRUÇÃO, REFORMAS E AQUISIÇÃO DE IMÓVEIS.                                                                                        1
+DISPONIBILIDADE DO SISTEMA JUDICIAL ELETRÔNICO.                                                                                     1
+DESENVOLVIMENTO DE ATIVIDADES CORREICIONAIS.                                                                                        1
+MATÉRIAS GERADAS PARA TRANSPARÊNCIA DAS AÇÕES DA INSTITUIÇÃO                                                                        1
+ACESSO À DOCUMENTAÇÃO BÁSICA POR PESSOAS VULNERÁVEIS                                                                                1
+CONCILIAÇÃO E MEDIAÇÃO DE CONFLITOS                                                                                                 1
+CURSOS, TREINAMENTOS E PALESTRAS OFERECIDAS PELO TRIBUNAL DE JUSTIÇA                                                                1
+FISCALIZAÇÕES ORDINÁRIAS                                                                                                            1
+CAPACITAÇÃO DE SERVIDORES                                                                                                           1
+OBRAS REALIZADAS PELO TRIBUNAL DE CONTAS DO ESTADO                                                                                  1
+AÇÕES DE PUBLICIDADE INSTITUCIONAL                                                                                                  1
+PRODUÇÃO E TRANSMISSÃO DAS ATIVIDADES INSTITUCIONAIS E LEGISLATIVAS PELA TV                                                         1
+PRESERVAÇÃO DO ACERVO DIGITAL                                                                                                       1
+MODERNIZAÇÃO E ATUALIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA                                                                            1
+OBRAS, ADAPTAÇÕES E/OU REFORMAS NO PALÁCIO 9 DE JULHO                                                                               1
+CAPACITAÇÃO DE SERVIDORES NOS EVENTOS PARA DESENVOLVIMENTO DOS PROFISSIONAIS                                                        1
+EVENTOS REALIZADOS PELA ALESP                                                                                                       1
+COOPERAÇÃO PEDAGÓGICA COM MUNICIPIOS                                                                                                1
+PROFISSIONALIZAÇÃO E GESTÃO DE PESSOAS                                                                                              1
+EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO PARA UNIDADES DA ADMINISTRAÇÃO DIRETA E INDIRETA                                           1
+SUBVENÇÕES A PREFEITURAS                                                                                                            1
+APOIO E FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA NA ATENÇÃO PRIMÁRIA À SAÚDE                                                      1
+INOVAÇÃO DOS PROCESSOS DE ASSISTÊNCIA FARMACÊUTICA COM RECURSOS TECNOLÓGICOS                                                        1
+ATENDIMENTO DE DEMANDAS JUDICIAIS DE MEDICAMENTOS                                                                                   1
+ATENDIMENTOS DE SAÚDE DE ALTA E MÉDIA COMPLEXIDADE DE OUTROS HOSPITAIS DA ADMINISTRAÇÃO INDIRETA                                    1
+SUBVENÇÕES ÀS SANTAS CASAS                                                                                                          1
+SUBVENÇÕES A ENTIDADES FILANTRÓPICAS E SEM FINS LUCRATIVOS                                                                          1
+IMUNIZAÇÃO CONTRA DOENÇAS IMUNOPREVENÍVEIS                                                                                          1
+REDE FÍSICA ESCOLAR ADEQUADA PARA APRENDIZAGEM                                                                                      1
+VIGILANCIA LABORATORIAL: EXAMES/ENSAIOS DE INTERESSE EM SAÚDE PÚBLICA                                                               1
+VIGILÂNCIA EPIDEMIOLÓGICA DE DOENÇAS, AGRAVOS E EVENTOS DE IMPORTÂNCIA EM SAÚDE                                                     1
+GESTÃO, MONITORAMENTO E RESPOSTA ÀS EMERGÊNCIAS EM SAÚDE PÚBLICA E DESASTRES                                                        1
+VIGILÂNCIA SANITÁRIA DE PROD., SERV., MEIO AMB. E SAÚDE DO TRABALHADOR                                                              1
+UNIDADES DE SAÚDE DA ADMINISTRAÇÃO  DIRETA E INDIRETA REFORMADAS  OU AMPLIADAS                                                      1
+MÓVEIS E EQUIPAMENTOS MÉDICO-HOSPITALARES PARA AS UNIDADES DA ADMNISTRAÇÃO DIRETA E INDIRETA                                        1
+ENTREGA DE MEDICAMENTOS E OUTROS PRODUTOS DE SAÚDE DE FORMA PRESENCIAL E NO DOMICÍLIO DO PACIENTE                                   1
+ATENDIMENTOS DE SAÚDE DE ALTA E MÉDIA COMPLEXIDADE EM UNIDADES/SERVIÇOS CONTRATADOS/CONVENIADOS SOB GESTÃO ESTADUAL                 1
+ACESSO A MEDICAMENTOS PADRONIZADOS NO SUS/ USO RACIONAL DE MEDICAMENTOS - URM                                                       1
+ATENDIMENTOS POR MEIO DOS MUTIRÕES DE SAÚDE                                                                                         1
+NOVAS SOLUÇÕES TECNOLÓGICAS NO ÂMBITO DA SECRETARIA ESTADUAL DA SAÚDE                                                               1
+ATENDIMENTOS DE REABILITAÇÃO REALIZADOS PELA REDE LUCY MONTORO                                                                      1
+ATENDIMENTOS DE SAÚDE DE ALTA E MÉDIA COMPLEXIDADE DAS UNIDADES GERENCIADAS PELAS ORGANIZAÇÕES SOCIAIS DE SAÚDE - OSS               1
+PROVIMENTO DE INFRAESTRUTURA E GESTÃO DOS SERVIÇOS NÃO ASSISTENCIAIS  - PPP                                                         1
+APOIO TÉCNICO E/OU FINANCEIRO AOS MUNICÍPIOS PARA A ATENÇÃO PRIMÁRIA                                                                1
+APOIO FINANCEIRO PARA ATENDIMENTO EM ATENÇÃO BÁSICA DA POPULAÇÃO PRISIONAL                                                          1
+ATENDIMENTOS DE SAÚDE DE ALTA E MÉDIA COMPLEXIDADE DA ADM. DIRETA E INDIRETA EM REDE PRÓPRIA                                        1
+FORTALECIMENTO DA AUTOGESTÃO ESCOLAR COM PARTICIPAÇÃO DA COMUNIDADE                                                                 1
+PARCERIAS ESTADOS-MUNICÍPIOS PARA REFORMAS, AMPLIAÇÕES DE CONSTRUÇÕES ESCOLARES                                                     1
+RECURSOS E EQUIPAMENTOS DE TIC                                                                                                      1
+EQUIPAMENTOS, INSUMOS E SERVIÇOS PARA AS ESCOLAS                                                                                    1
+TRANSPORTE ESCOLAR REGULAR E ESPECIALIZADO GARANTIDO                                                                                1
+ALIMENTAÇÃO ESCOLAR OFERECIDA AOS ESTUDANTES DA REDE ESTADUAL                                                                       1
+ESTRUTURA ESTADUAL DE ENTREPOSTOS E MERCADOS ATACADISTAS                                                                            1
+ABASTECIMENTO DA POPULAÇÃO COM PRODUTOS HORTÍCOLAS/ VALORAÇÃO DOS CIRCUITOS.                                                        1
+ATENDIMENTO A PROPRIETÁRIOS RURAIS PARA REGULARIZAÇÃO AMBIENTAL                                                                     1
+PPA REGIONALIZADO ELABORADO, MONITORADO E REVISTO                                                                                   1
+CAPACITAÇÃO EM TEMAS TRANSVERSAIS DE GESTÃO PÚBLICA                                                                                 1
+FISCO MODERNIZADO                                                                                                                   1
+ARRECADAÇÃO DE IMPOSTOS ESTADUAIS                                                                                                   1
+POLÍTICA TRIBUTÁRIA APRIMORADA                                                                                                      1
+PORTAL DE INFORMAÇÕES DAS ENTIDADES DESCENTRALIZADAS                                                                                1
+PROGRAMAÇÃO FINANCEIRA E CONTABILIDADE DO ESTADO REALIZADA                                                                          1
+SISTEMAS FINANCEIROS E ORÇAMENTÁRIOS MODERNIZADOS                                                                                   1
+DOMICÍLIOS BENEFICIADOS PELA REGULARIZAÇÃO FUNDIÁRIA EM ÁREAS E C.H. DA CDHU                                                        1
+ORÇAMENTOS ANUAIS ELABORADOS E ACOMPANHADOS                                                                                         1
+ESTUDOS E AVALIAÇÕES DE POLÍTICAS PÚBLICAS E PROGRAMAS GOVERNAMENTAIS                                                               1
+AUDIÊNCIAS PÚBLICAS EM PROCESSOS DE PLANEJAMENTO E ORÇAMENTO                                                                        1
+SISTEMA DE INDICADORES GERADOS PELA FUNDAÇÃO SEADE                                                                                  1
+ESTUDOS E ANÁLISES SOBRE POLÍTICAS PÚBLICAS ELABORADOS                                                                              1
+APOIO À FORMULAÇÃO, EXECUÇÃO E AVALIAÇÃO DE PROGRAMAS E SERVIÇOS PÚBLICOS                                                           1
+CAPACITAÇÃO EM TEMAS DE INTERESSE DA SECRETARIA DA FAZENDA E PLANEJAMENTO                                                           1
+CURSOS E EVENTOS DE CAPACITAÇÃO E CONSCIENTIZAÇÃO EM EDUCAÇÃO FISCAL                                                                1
+MODERNIZAÇÃO DOS EDIFÍCIOS UTILIZADOS PELA SFP                                                                                      1
+GOVERNANÇA, TRANSPARÊNCIA E ACCOUNTABILITY AMPLIADOS                                                                                1
+ATIVIDADES DO CORPO DE BOMBEIROS MODERNIZADAS                                                                                       1
+ATIVIDADE POLICIAL VALORIZADA                                                                                                       1
+POLÍTICA CRIMINAL MODERNIZADA                                                                                                       1
+AMPLIAÇÃO DO COMBATE AO CRIME ORGANIZADO                                                                                            1
+REDUÇÃO E COMBATE À VITIMIZAÇÃO DECORRENTE DE VIOLÊNCIA CRIMINAL                                                                    1
+REDUÇÃO E COMBATE À VITIMIZAÇÃO DECORRENTE DE VIOLÊNCIA INTERPESSOAL                                                                1
+REDUÇÃO E CONTROLE DA INCIDÊNCIA DE DESORDEM E INCIVILIDADES                                                                        1
+QUARTÉIS HISTÓRICOS TOMBADOS RESTAURADOS E PRESERVADOS                                                                              1
+CENTROS DE OPERAÇÕES DA POLÍCIA MILITAR INSTALADOS                                                                                  1
+QUARTÉIS CONSTRUÍDOS OU REFORMADOS                                                                                                  1
+INFORMAÇÕES DE INTERESSE PÚBLICO RELACIONADOS À ÁREA DE SEGURANÇA PÚBLICA                                                           1
+POLICIAIS MILITARES APTOS E EM CONDIÇÕES EQUILIBRADAS DE SAÚDE                                                                      1
+POLICIAIS MILITARES FORMADOS E CAPACITADOS PARA O POLICIAMENTO OSTENSIVO                                                            1
+UNIDADES HABITACIONAIS VIABILIZADAS POR MEIO DE SUBSÍDIOS, APORTES DO FPHIS E PPP                                                   1
+DOMICÍLIOS BENEFICIADOS PELA REGULARIZAÇÃO FUNDIÁRIA DE NÚCLEOS P/ CIDADE LEGAL                                                     1
+MORADIA SEGURA                                                                                                                      1
+CONSERVAÇÃO EX SITU DA FAUNA SILVESTRE AMEAÇADA DE EXTINÇÃO E REDE DE DESTINAÇÃO                                                    1
+PESQUISA CIENTIFICA, INOVAÇÃO TECNOLÓGICA E ACERVOS PROTEGIDOS                                                                      1
+CAPACITAÇÃO E DIFUSÃO DO CONHECIMENTO AMBIENTAL - ESCOLA SUPERIOR DA CETESB                                                         1
+PESQUISA E INOVAÇÃO EM CONSERVAÇÃO DA FAUNA, MEIO AMBIENTE E BIOTECNOLOGIA                                                          1
+PAISAGENS E ECOSSISTEMAS EM CONSERVAÇÃO, RESTAURAÇÃO E USO SUSTENTÁVEL                                                              1
+PLANOS DE AÇÃO PARA CONSERVAÇÃO DE ESPÉCIES AMEAÇADAS DE EXTINÇÃO                                                                   1
+CONSERVAÇÃO INTEGRADA DE FAUNA SILVESTRE                                                                                            1
+PROMOÇÃO DA COEXISTÊNCIA HUMANO-FAUNA-SILVESTRE-CÃES-GATOS                                                                          1
+UNIDADES HABITACIONAIS PRODUZIDAS OU ADQUIRIDAS                                                                                     1
+PREVENÇÃO, FISCALIZAÇÃO E MONITORAMENTO AMBIENTAL                                                                                   1
+GESTÃO DE AUTOS DE INFRAÇÃO AMBIENTAL E REPARAÇÃO DE DANOS AO MEIO AMBIENTE                                                         1
+PROTEÇÃO, AMPARO E BEM-ESTAR DE CÃES E GATOS                                                                                        1
+INSTRUMENTOS E SUBSÍDIOS TÉCNICOS DE POLÍTICAS PÚBLICAS TERRITORIAIS/AMBIENTAIS                                                     1
+PLATAFORMAS DE GESTÃO E INTEGRAÇÃO DE INFORMAÇÕES TERRITORIAIS - DATAGEO/REDEZEE                                                    1
+SUBSÍDIOS TÉCNICOS PARA AVALIAÇÃO DE RISCO DE DESASTRES GEODINÂMICOS                                                                1
+MONITORAMENTO DA EDUCAÇÃO AMBIENTAL NO ESTADO DE SÃO PAULO                                                                          1
+QUALIFICAÇÃO E ORIENTAÇÃO EM EDUCAÇÃO AMBIENTAL PARA POLÍTICAS PÚBLICAS                                                             1
+CAPACITAÇÃO E FORMAÇÃO SOBRE ED. AMBIENTAL E POLÍTICAS PÚBLICAS EM MEIO AMBIENTE                                                    1
+PRODUÇÃO E DIFUSÃO DE CONTEÚDOS DE EDUCAÇÃO AMBIENTAL E MEIO AMBIENTE                                                               1
+FINANCIAMENTO DE PROJETOS PELO FEPRAC PARA A REVITALIZAÇÃO DE ÁREAS CONTAMINADAS                                                    1
+FINANCIAMENTO DE PROJETOS AMBIENTAIS PELO FECOP                                                                                     1
+ATENDIMENTO EM EMERGÊNCIAS QUÍMICAS DECORRENTES DE RISCOS TECNOLÓGICOS                                                              1
+MONITORAMENTO DA QUALIDADE AMBIENTAL DAS PRAIAS LITORÂNEAS                                                                          1
+MONITORAMENTO DA QUALIDADE AMBIENTAL DO AR                                                                                          1
+LICENÇAS E DOCUMENTOS PARA EMPREENDIMENTOS/ ATIV NÃO SUJEITAS AO LIC COM AIA                                                        1
+LICENÇAS EMITIDAS PARA EMPREENDIMENTOS E ATIVIDADES COM AVALIAÇÃO DE IMPACTO AMBIENTAL                                              1
+GOVERNANÇA METROPOLITANA E ARTICULAÇÃO INTERFEDERATIVA                                                                              1
+PROJETOS DE DESENVOLVIMENTO URBANO INTEGRADO ESTRUTURADOS                                                                           1
+APOIO TÉCNICO GEOGRÁFICO E CARTOGRÁFICO                                                                                             1
+PRODUÇÃO, PRESERVAÇÃO E DIVULGAÇÃO DE BASES CARTOGRÁFICAS                                                                           1
+DOMICÍLIOS BENEFICIADOS POR URBANIZAÇÃO E MELHORIAS HABITACIONAIS E URBANAS                                                         1
+LOTES URBANOS PRODUZIDOS                                                                                                            1
+SERVIÇOS DE SEGURANÇA PÚBLICA POR MEIO DO POLICIAMENTO OSTENSIVO E PREVENTIVO                                                       1
+DEFESA FUNCIONAL DOS POLICIAIS MILITARES                                                                                            1
+AGRO PAULISTA + VERDE                                                                                                               1
+LAUDO PERICIAL DE MEDICINA LEGAL                                                                                                    1
+PARCERIAS PARA A PROMOÇÃO DO ENFRENTAMENTO DA VIOLÊNCIA CONTRA A MULHER                                                             1
+PARCERIAS PARA A PROMOÇÃO DA ATENÇÃO À SAÚDE DA MULHER GESTANTE                                                                     1
+FISCALIZAÇÃO REGIONALIZADA E ORIENTAÇÃO AO FORNECEDOR                                                                               1
+ATENDIMENTO E ORIENTAÇÃO AO CONSUMIDOR                                                                                              1
+FISCALIZAÇÃO DO MERCADO DE CONSUMO                                                                                                  1
+EDUCAÇÃO PARA O MERCADO DE CONSUMO                                                                                                  1
+LAUDO PERICIAL DE DNA                                                                                                               1
+ATENDIMENTO  INTEGRAL À EDUCAÇÃO DO ADOLESCENTE/JOVEM EM MEDIDA SOCIOEDUCATIVA E CAUTELAR                                           1
+AÇÕES DE EDUCAÇÃO CONTINUADA                                                                                                        1
+PROCEDIMENTOS AUTOMATIZADOS                                                                                                         1
+FISCALIZAÇÃO/VERIFICAÇÃO DE INSTRUMENTOS DE PESAR E MEDIR                                                                           1
+FISCALIZAÇÃO DE PRODUTOS PRÉ-EMBALADOS                                                                                              1
+APOIO SOCIOEDUCATIVO AOS ADOLESCENTES/JOVENS EM CUMPRIMENTO DE MEDIDAS JUDICIAIS                                                    1
+APOIO A ADOLESCENTES EM PÓS MEDIDA - PROGRAMA NOVOS TEMPOS                                                                          1
+PARCERIAS PARA A PROMOÇÃO DO EMPREENDEDORISMO E AUTONOMIA FINANCEIRA DA MULHER                                                      1
+PARCERIAS PARA PROMOÇÃO DA ATENÇÃO À SAUDE DA MULHER                                                                                1
+DESENVOLVIMENTO ECONÔMICO E SOCIAL DO PONTAL DO PARANAPANEMA                                                                        1
+FOMENTO AO DESENVOLVIMENTO DAS UNIDADES PRODUTIVAS                                                                                  1
+AUXÍLIO À REGULARIZAÇÃO FUNDIÁRIA                                                                                                   1
+LAUDOS E RESULTADOS DE ANÁLISES LABORATORIAIS PARA DESENVOLVIMENTO RURAL SUSTENTÁVEL                                                1
+CONHECIMENTO E TECNOLOGIAS PARA INOVAÇÃO NO AGRONEGÓCIO                                                                             1
+INSUMOS ESTRATÉGICOS                                                                                                                1
+NOVOS CONHECIMENTOS E TECNOLOGIAS PARA INOVAÇÃO NO AGRONEGÓCIO                                                                      1
+ESTUDOS APLICADOS EM ARRANJOS PRODUTIVOS LOCAIS AGROINDUSTRIAIS RURAIS                                                              1
+SISTEMA ESTADUAL DE DESENVOLVIMENTO RURAL SUSTENTÁVEL                                                                               1
+SUBVENÇÃO ECONÔMICA PARA O DESENVOLVIMENTO RURAL SUSTENTÁVEL                                                                        1
+CRÉDITO RURAL PARA O DESENVOLVIMENTO SUSTENTÁVEL                                                                                    1
+SEGURANÇA NO CAMPO                                                                                                                  1
+ROTAS RURAIS - PROPRIEDADES RURAIS MAPEADAS, ENDEREÇADAS E CONECTADAS                                                               1
+APOIO A PRODUTORES, ASSOCIAÇÕES E COOPERATIVAS COM ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E CAPACITAÇÃO PARA ACESSO A FINANCIAMENTO    1
+ATENDIMENTO AOS PRODUTORES COM INSUMOS ESTRATÉGICOS DE QUALIDADE                                                                    1
+ATENÇÃO INTEGRAL À SAÚDE DO ADOLESCENTE EM CUMPRIMENTO DE MEDIDA SOCIOEDUCATIVA                                                     1
+INFRAESTRUTURA DAS UNIDADES DA FUNDAÇÃO CASA ADEQUADA                                                                               1
+ASSISTÊNCIA MÉDICA HOSPITALAR                                                                                                       1
+PREVENÇÃO DE AFOGAMENTOS E PROTEÇÃO DE BANHISTAS                                                                                    1
+INFORMAÇÕES DE INTERESSE PÚBLICO RELACIONADAS À POLÍCIA CIVIL                                                                       1
+POLICIAIS CIVIS FORMADOS E CAPACITADOS                                                                                              1
+EMISSÃO DE DOCUMENTOS AO CIDADÃO                                                                                                    1
+INFRAESTRUTURA DA POLÍCIA CIVIL EXPANDIDA E ADEQUADA                                                                                1
+COMBATE À CRIMINALIDADE ORGANIZADA E DEMAIS CRIMES                                                                                  1
+PRONTA RESPOSTA ÀS EMERGÊNCIAS - COMBATE A INCÊNDIOS                                                                                1
+COORDENAÇÃO DO SISTEMA ESTADUAL DE ATENDIMENTO ÀS EMERGÊNCIAS                                                                       1
+SOLUÇÕES TECNOLÓGICAS                                                                                                               1
+EDUCAÇÃO PÚBLICA DO CORPO DE BOMBEIROS                                                                                              1
+SEGURANÇA CONTRA INCÊNDIOS NAS EDIFICAÇÕES E ÁREAS DE RISCO                                                                         1
+PRONTA RESPOSTA ÀS EMERGÊNCIAS - SALVAMENTO E RESGATE                                                                               1
+INFRAESTRUTURA DA SPTC EXPANDIDA E ADEQUADA                                                                                         1
+LAUDOS PERICIAIS CRIMINAIS E MÉDICO-LEGAIS                                                                                          1
+VALORIZAÇÃO PROFISSIONAL: EDUCAÇÃO CONTINUADA, PESQUISA E APOIO BIOPSICOSSOCIAL                                                     1
+PRESOS CUSTODIADOS PELA POLÍCIA CIVIL                                                                                               1
+ATENDIMENTO E ORIENTAÇÃO SOCIAL À POPULAÇÃO EM REGIÕES DE VULNERABILIDADE SOCIAL                                                    1
+POSTOS DO CENTRO DE INTEGRAÇÃO À CIDADANIA REFORMADOS                                                                               1
+PROMOÇÃO DA PARTICIPAÇÃO SOCIAL                                                                                                     1
+CAPACITAÇÃO DE SERVIDORES DA SECRETARIA DE JUSTIÇA E CIDADANIA                                                                      1
+PAGAMENTO DE LAUDOS PERICIAIS DE NATUREZA CÍVEL                                                                                     1
+PROTEÇÃO E DEFESA DOS DIREITOS HUMANOS                                                                                              1
+PROGRAMA ESTADUAL DE PROTEÇÃO A VÍTIMAS E TESTEMUNHA -PROVITA                                                                       1
+APOIO  A EVENTOS DE CONSCIENTIZAÇÃO E ENGAJAMENTO DOS JOVENS ENTRE 15 E 29 ANOS                                                     1
+APOIO A VÍTIMAS DE VIOLÊNCIA - CRAVI                                                                                                1
+FÓRUNS DO ESTADO CONSTRUÍDOS, REFORMADOS, AMPLIADOS E COM ACESSIBILIDADE                                                            1
+REPARAÇÃO A PESSOAS COMPROVADAMENTE PERSEGUIDAS DURANTE A DITADURA MILITAR                                                          1
+CERTIFICADO DE RECONHECIMENTO DE ENTIDADES PROMOTORAS DE DIREITOS HUMANOS                                                           1
+PROTEÇÃO A CRIANÇAS E ADOLESCENTES AMEAÇADOS DE MORTE - PPCAAM                                                                      1
+POLÍTICAS PÚBLICAS EM DIREITOS HUMANOS APRIMORADAS                                                                                  1
+CENTROS DE INTEGRAÇÃO E CIDADANIA -CICS                                                                                             1
+FOMENTO A PROJETOS DE DEFESA DOS INTERESSES DIFUSOS                                                                                 1
+INTEGRIDADE PÚBLICA E GESTÃO DE RISCOS                                                                                              1

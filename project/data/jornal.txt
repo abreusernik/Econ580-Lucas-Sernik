@@ -1,0 +1,52 @@
+#### Date: 2\25\2026
+
+Idea - Each state has a Tribunal de Contas Estadual (state audit court) that contains
+aggregate information on how much each state is spending on each bill passed
+
+Somehow filter such information to account to laws that were passed in recent years.
+See if such laws are conditional cash transfers, which might be seen as ways to buy
+votes
+
+Descriptive data that might show that more expensive\spending bills are passed in
+election years
+
+Model a regression(?) logit(?) to show that increase in conditional cash transfers are
+correlated to greater chances of reelection in the next period
+
+#### Date: 3\5\2026
+
+'tp_despesa' in dataframe indicates the type of expense. Possible types are (Claude):
+
+1) 'Valor Liquidado' (Value Liquidated, The government verifies and confirms 
+the supplier delivered the goods or service. The debt is now officially 
+recognized, but money hasn't moved yet.)
+2) 'Empenhado' (Encumbered, The government reserves the budget amount, 
+guaranteeing funds exist for a future expense. Nothing is paid yet — it's 
+just a commitment. No spending can happen without an empenho first.)
+3) 'Valor Pago' (Value Paid, The actual transfer of money to the creditor. 
+The final stage — cash leaves the government and reaches the supplier.)
+4) 'Anulação' (Cancellation, Total or partial cancellation of an empenho, 
+returning the amount back to the budget when the expense will no longer 
+occur.)
+
+Look at Liquidated Value? Maybe at Encumbered? Think Liquidated makes more sense
+
+How to filter? Analyzing the "programas"
+
+Programas are bigger "ideas" and directions that the state government will try to 
+implement. There are around 111 of them
+Produtos are specific things that the government has done for each "Programa". 
+Contains a more specific description of what was actually done with the money.
+Thinking about filtering things with "produtos". There is a title and a more 
+detailed description for each "produto". Will read them and see how to advance.
+
+Created folders and files to organize and inspect some csvs. Inspected the 
+adamantina.csv, which is the first municipality I am looking at. Started
+to analyze each column in the dataset. Detoured to what is a produto and
+what is a programa. Got data on all possible produtos and programas in the
+state of sao paulo through the csvs in ppa(2024-2027), which contains
+information on the plans of the state for those years. Also found the
+official pdf related the definition of programs and products and how it
+changes over the years.
+
+TXT folders help visualize data

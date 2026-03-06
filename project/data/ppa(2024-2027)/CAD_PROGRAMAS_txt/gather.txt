@@ -1,0 +1,112 @@
+     COD_PROGRAMA                                                                       DS_PROGRAMA
+0           150.0                                      DESENVOLVIMENTO DAS ATIVIDADES PARLAMENTARES
+1           200.0                                                                  CONTROLE EXTERNO
+2           303.0                                        PROCESSO JUDICIÁRIO NO TRIBUNAL DE JUSTIÇA
+3           600.0                                  GESTÃO E MANUTENÇÃO DA JUSTIÇA MILITAR DO ESTADO
+4           800.0                                          EDUCAÇÃO PÚBLICA DE QUALIDADE PARA TODOS
+5           815.0                                    GESTÃO INSTITUCIONAL DA SECRETARIA DA EDUCAÇÃO
+6           930.0               ATENDIMENTO INTEGRADO E REGIONALIZADO NO SUS NO ESTADO DE SAO PAULO
+7           932.0                                         PREVENÇÃO, VIGILÂNCIA E PROMOÇÃO DA SAÚDE
+8           941.0                                       ESTRUTURAÇÃO DA REDE DE ASSISTÊNCIA À SAÚDE
+9           942.0                                     GESTÃO INSTITUCIONAL E CAPACITAÇÃO PARA O SUS
+10          944.0                                               PROGRAMA DE ATENÇÃO EM SAÚDE MENTAL
+11          946.0    INOVAÇÃO, PESQUISA CIENTÍFICA, PRODUÇÃO E FORNECIMENTO DE INSUMOS ESTRATÉGICOS
+12          947.0                 TECNOLOGIA DA INFORMAÇÃO, COMUNICAÇÃO E INOVAÇÃO EM SAÚDE DIGITAL
+13         1047.0                             COMPETITIVIDADE, DESENVOLVIMENTO ECONÔMICO E REGIONAL
+14         1048.0                                            EMPREENDEDORISMO E LIBERDADE ECONÔMICA
+15         1049.0                         FOMENTO AO DESENVOLVIMENTO SOCIOECONÔMICO - DESENVOLVE SP
+16         1050.0              REGISTRO DIGITAL PARA ABERTURA, ALTERAÇÃO E ENCERRAMENTO DE EMPRESAS
+17         1051.0                                         QUALIFICACAO PROFISSIONAL E EMPREENDEDORA
+18         1052.0                                SUPORTE ADMINISTRATIVO E MELHORIA DE GESTÃO DA SDE
+19         1201.0                                     PROMOÇÃO DA ECONOMIA E DA INDÚSTRIA CRIATIVAS
+20         1202.0                                                PRESERVAÇÃO DO PATRIMÔNIO CULTURAL
+21         1206.0                                             RÁDIOS, TVS EDUCATIVAS E NOVAS MÍDIAS
+22         1221.0                                         INTEGRAÇÃO DAS CULTURAS LATINO-AMERICANAS
+23         1222.0                                              FORMAÇÃO, DIFUSÃO E MEMÓRIA CULTURAL
+24         1223.0       GESTÃO E INOVAÇÃO DA SECRETARIA DA CULTURA E ECONOMIA E INDÚSTRIA CRIATIVAS
+25         1316.0  DEFESA AGROPECUÁRIA E SUSTENTABILIDADE SANITÁRIA INTEGRADA A SEGURANÇA ALIMENTAR
+26         1317.0                                                              PRODUÇÃO SUSTENTÁVEL
+27         1318.0                 GESTÃO ADMINISTRATIVA E GOVERNANÇA EM AGRICULTURA E ABASTECIMENTO
+28         1319.0                                                             INOVAÇÃO AGROPECUÁRIA
+29         1320.0                     DIGNIDADE E DESENVOLVIMENTO NAS POLÍTICAS FUNDIÁRIA E AGRÁRIA
+30         1612.0                                    POLÍTICAS PARA MULHERES NO ESTADO DE SÃO PAULO
+31         1711.0                                                   PROTEÇÃO E DEFESA DO CONSUMIDOR
+32         1714.0          PERÍCIA JUDICIAL DE MEDICINA LEGAL E DE INVESTIGAÇÃO DE VÍNCULO GENÉTICO
+33         1724.0                                     METROLOGIA E QUALIDADE DE PRODUTOS E SERVIÇOS
+34         1729.0  ATENÇÃO AO ADOLESCENTE/JOVEM EM CUMPRIM.MEDIDA SOCIOED, CAUTELAR E EM PÓS MEDIDA
+35         1730.0                                        CIDADANIA EMANCIPATÓRIA E DIREITOS HUMANOS
+36         1801.0                                 FORTALECIMENTO E INTEGRAÇÃO DA POLÍCIA JUDICIÁRIA
+37         1811.0     CORPO DE BOMBEIROS: RESPONDENDO ÀS EMERGÊNCIAS, GERINDO RISCOS COM EFICIÊNCIA
+38         1814.0                      POLÍCIA CIENTÍFICA: CIÊNCIA E TECNOLOGIA ESCLARECENDO CRIMES
+39         1817.0                           PROGRAMA DE PROTEÇÃO SOCIAL DO POLICIAL MILITAR (PPSPM)
+40         1819.0                                                      PROTEÇÃO E DEFESA DO CIDADÃO
+41         1820.0                                                   INTEGRAÇÃO DA SEGURANÇA PÚBLICA
+42         2030.0                                                     GESTÃO CORPORATIVA FAZENDÁRIA
+43         2031.0                                                     GESTÃO DOS TRIBUTOS ESTADUAIS
+44         2032.0      GESTÃO RESPONSÁVEL, TRANSPARENTE E INTEGRADA DAS FINANÇAS PÚBLICAS ESTADUAIS
+45         2033.0                 INFORMAÇÕES DEMOGRÁFICAS, SOCIOECONÔMICAS E DA AÇÃO GOVERNAMENTAL
+46         2101.0                                                        TRANSFERÊNCIAS FINANCEIRAS
+47         2505.0                                                  FOMENTO HABITACIONAL (FPHIS/FGH)
+48         2507.0                                                    REGULARIZAÇÃO FUNDIÁRIA URBANA
+49         2508.0                                                             PROVISÃO HABITACIONAL
+50         2510.0                                                           URBANIZAÇÃO E MELHORIAS
+51         2512.0                                          CARTOGRAFIA E GESTÃO TERRITORIAL EM REDE
+52         2513.0                                                  DESENVOLVIMENTO URBANO INTEGRADO
+53         2604.0  MELHORIA DA GESTÃO AMBIENTAL E PROMOÇÃO DO DESENVOLVIMENTO SUSTENTÁVEL NO ESTADO
+54         2617.0  EDUC. AMBIENTAL, PESQUISA CIENTÍFICA, INOVAÇÃO TECNOLÓG E GESTÃO DO CONHECIMENTO
+55         2618.0            PROTEÇÃO, CONSERVAÇÃO, RESTAURAÇÃO E USO SUSTENTÁVEL DA BIODIVERSIDADE
+56         2619.0     FORTALECIMENTO DO PLANEJAMENTO, DA GESTÃO AMBIENTAL E DA ESTRATÉGIA CLIMÁTICA
+57         2621.0                       UNIDADES DE CONSERVAÇÃO, ÁREAS PROTEGIDAS E PARQUES URBANOS
+58         2622.0                                                                 SEGURANÇA HÍDRICA
+59         2623.0  PLANEJ.FORMULAÇÃO,APOIO À IMPLEM. DE AÇÕES SUSTENTÁVES DA POLITICA DE SAN.BÁSICO
+60         2624.0         ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITÁRIO NA ÁREA OPERADA PELA SABESP
+61         2625.0                  DESENVOLVIMENTO E IMPLEMENTAÇÃO DA POLÍTICA DE RECURSOS HÍDRICOS
+62         2626.0                                      TRANSIÇÃO ENERGÉTICA E MINERAÇÃO SUSTENTÁVEL
+63         2627.0                                MELHORIAS NA INFRAESTRUTURA DE TRANSPORTE ESTADUAL
+64         2628.0        OPERAÇÃO, CONSERVAÇÃO E SEGURANÇA DA INFRAESTRUTURA DE TRANSPORTE ESTADUAL
+65         2629.0                                           PLANEJAMENTO DE LOGÍSTICA E TRANSPORTES
+66         2630.0                                                            SUPORTE ADMINISTRATIVO
+67         2701.0                   DEFESA DOS INTERESSES SOCIAIS E INDIVIDUAIS E DA ORDEM JURÍDICA
+68         2811.0                                                     DEFESA CIVIL SOMOS TODOS NÓS!
+69         2825.0                                      COORDENAÇÃO, GESTÃO E ARTICULAÇÃO DO GOVERNO
+70         2831.0                     POLÍTICA SOBRE DROGAS E TRANSFORMAÇÃO DE CENAS ABERTAS DE USO
+71         2832.0         REDE PARA PROMOÇÃO DA CIDADANIA E ENFRENTAMENTO DA VULNERABILIDADE SOCIAL
+72         2930.0                                                                COMUNICAÇÃO SOCIAL
+73         2931.0                                                              APOIO ADMINISTRATIVO
+74         2990.0                     DESENVOLVIMENTO DE AÇÕES DECORRENTES DE EMENDAS PARLAMENTARES
+75         3500.0                                                    POLÍTICA DE ASSISTÊNCIA SOCIAL
+76         3518.0                                     POLÍTICA DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+77         3519.0                     MELHORIA DA GESTÃO E DA OFERTA DAS POLÍTICAS PÚBLICAS DA SEDS
+78         3521.0                                               SUPERAÇÃO DA VULNERABILIDADE SOCIAL
+79         3703.0         PLANEJAMENTO, GESTÃO ESTRATÉGICA E MODERNIZAÇÃO DO TRANSPORTE - PITU VIVO
+80         3706.0       EXPANSÃO, MODERNIZ. E GESTÃO DO TRANSP. BAIXA/MÉDIA CAPACID.-PITU EM MARCHA
+81         3707.0         EXP., MODERNIZ. E OPER. TRANSP. POR TRENS METROPOLITANOS - PITU EM MARCHA
+82         3708.0        EXPANSÃO, MODERNIZAÇÃO E OPERAÇÃO DO TRANSPORTE METROVIÁRIO-PITU EM MARCHA
+83         3709.0                                           RENOVAÇÃO DO COMPLEXO TURÍSTICO DA EFCJ
+84         3815.0  GESTÃO DA CUSTÓDIA E REINTEGRAÇÃO SOCIAL DA POP.PENAL,EGRESSOS E SEUS FAMILIARES
+85         3935.0                            DESENVOLVIMENTO DE PARCERIAS EM INVESTIMENTOS (PPI-SP)
+86         3936.0  DESENVOLVIMENTO E EXCELÊNCIA  DA PRESTAÇÃO DOS SERVIÇOS DE TRANSPORTE  DELEGADOS
+87         3937.0             REGULAÇÃO E FISCALIZAÇÃO DOS SERVIÇOS PÚBLICOS DELEGADOS DE SAO PAULO
+88         4001.0                                                               ADVOCACIA DO ESTADO
+89         4004.0                                              CAPACITAÇÃO E APERFEIÇOAMENTO DA PGE
+90         4113.0                              ESPORTE E LAZER ATIVO NO PRESENTE COM FOCO NO FUTURO
+91         4114.0                                                                SAO PAULO OLIMPICO
+92         4200.0                  ASSISTÊNCIA JURÍDICA, INTEGRAL E GRATUITA ÀS PESSOAS VULNERÁVEIS
+93         4704.0                                 EQUIDADE DE DIREITOS PARA PESSOAS COM DEFICIÊNCIA
+94         4805.0      CIÊNCIA, TECNOLOGIA E INOVAÇÃO PARA O DESENVOLVIMENTO DO ESTADO DE SÃO PAULO
+95         4806.0                                        DESENVOLVIMENTO DA CIÊNCIA E DA TECNOLOGIA
+96         4807.0                                            ENSINO SUPERIOR NO ESTADO DE SÃO PAULO
+97         4808.0                       INOVAÇÃO E TECNOLOGIA PARA INSTITUIÇÕES PÚBLICAS E PRIVADAS
+98         4809.0                  PROGRAMA ESTADUAL DE EDUCAÇÃO PROFISSIONAL TÉCNICA E TECNOLÓGICA
+99         5005.0                      PROMOÇÃO E DESENVOLVIMENTO DO TURISMO NO ESTADO DE SÃO PAULO
+100        5126.0                                                DESENVOLVIMENTO REGIONAL INTEGRADO
+101        5127.0                     ASSESSORAMENTO, COORDENAÇÃO E ARTICULAÇÃO POLITICA DO GOVERNO
+102        5201.0                                     INSERÇÃO INTERNACIONAL DO ESTADO DE SÃO PAULO
+103        5300.0                                            TRANSFORMAÇÃO E MODERNIZAÇÃO DA GESTÃO
+104        5302.0                                             TRANSFORMAÇÃO PARA UM GOVERNO DIGITAL
+105        5303.0   GESTÃO DO REGIME PRÓPRIO DE PREVIDÊNCIA E DO SISTEMA DE PROTEÇÃO SOCIAL MILITAR
+106        5304.0                                                  EFICIÊNCIA PARA TODOS: DETRAN-SP
+107        5305.0                                   ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL
+108        5400.0                               CONTROLE INTERNO, INTEGRIDADE E COMBATE À CORRUPÇÃO
+109        9999.0                                                           RESERVA DE CONTINGÊNCIA
+110           NaN                                                                               NaN
